@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="DESCRIPTION META TAG">
+  <meta property="og:title" content="SOCIAL MEDIA TITLE TAG"/>
+  <meta property="og:description" content="SOCIAL MEDIA DESCRIPTION TAG TAG"/>
+  <meta property="og:url" content="URL OF THE WEBSITE"/>
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+
+
+  <meta name="twitter:title" content="TWITTER BANNER TITLE META TAG">
+  <meta name="twitter:description" content="TWITTER BANNER DESCRIPTION META TAG">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="KEYWORDS SHOULD BE PLACED HERE">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation</title>
+<!--  <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">-->
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+
+
+
+
+<body>
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="https://github.com/ZJU-REAL">
+      <span class="icon">
+          <i class="fab fa-github"></i>
+      </span>
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          More Research
+        </a>
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="https://zju-real.github.io/SBT/">
+            Self-Braking Tuning
+          </a>
+          <a class="navbar-item" href="https://zju-real.github.io/ViewSpatial-Page/">
+            ViewSpatial-Bench
+          </a>
+          <a class="navbar-item" href="https://zju-real.github.io/InftyThink/">
+            InftyThink
+          </a>
+        </div>
+
+        
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation</h1>
+              <div class="is-size-5 publication-authors">
+                <span class="author-block">
+                  <a href="mailto:siqichen@zju.edu.cn" target="_blank">Siqi Chen</a><sup>1</sup>,
+                </span>
+                <span class="author-block">
+                  Xinyu Dong<sup>1</sup>,
+                </span>
+                <span class="author-block">
+                  Haolei Xu<sup>1</sup>,
+                </span>
+                <span class="author-block">
+                  Xingyu Wu<sup>1</sup>,
+                </span>
+                <span class="author-block">
+                  Fei Tang<sup>1</sup>,
+                </span>
+                <span class="author-block">
+                  Hang Zhang<sup>1</sup>,
+                </span>
+                <span class="author-block">
+                  Yuchen Yan<sup>1</sup>,
+                </span>
+                <span class="author-block">
+                  Linjuan Wu<sup>1</sup>,
+                </span>
+                <span class="author-block">
+                  Wenqi Zhang<sup>1</sup>,
+                </span>
+                <span class="author-block">
+                  Guiyang Hou<sup>1</sup>
+                </span>
+                </span>
+                <span class="author-block">
+                  <a href="mailto:syl@zju.edu.cn" target="_blank">Yongliang Shen</a><sup>1†</sup>,
+                </span>
+                <span class="author-block">
+                  Weiming Lu<sup>1</sup>
+                </span>
+                </span>
+                <span class="author-block">
+                  Yueting Zhuang<sup>1</sup>,
+                </span>
+              </div>
+
+
+                  <div class="is-size-5 publication-authors">
+                    <span class="author-block"><sup>1</sup>Zhejiang University</span>
+                    <br>
+                    <span class="author-block">Preprint. Under review.</span>
+                    <br>
+                    <span class="eql-cntrb"><small><sup>†</sup>Corresponding Author</small></span>
+                  </div>
+
+                  <div class="column has-text-centered">
+                    <div class="publication-links">
+                         <!-- Arxiv PDF link -->
+                      <span class="link-block">
+                        <a href="https://arxiv.org/pdf/comingsoon" target="_blank"
+                        class="external-link button is-normal is-rounded is-dark">
+                        <span class="icon">
+                          <i class="fas fa-file-pdf"></i>
+                        </span>
+                        <span>Paper</span>
+                      </a>
+                    </span>
+
+<!--                    &lt;!&ndash; Supplementary PDF link &ndash;&gt;-->
+<!--                    <span class="link-block">-->
+<!--                      <a href="static/pdfs/supplementary_material.pdf" target="_blank"-->
+<!--                      class="external-link button is-normal is-rounded is-dark">-->
+<!--                      <span class="icon">-->
+<!--                        <i class="fas fa-file-pdf"></i>-->
+<!--                      </span>-->
+<!--                      <span>Supplementary</span>-->
+<!--                    </a>-->
+<!--                  </span>-->
+
+                  <!-- Github link -->
+                  <span class="link-block">
+                    <a href="https://github.com/comingsoon" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+
+                <!-- ArXiv abstract Link -->
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/comingsoon" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+
+                      <span class="link-block">
+                <a href="https://huggingface.co/datasets/xiaoooobai/SVGenius/tree/main"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <!-- <i class="far fa-images"></i> -->
+                      <p style="font-size:18px">🤗</p>
+                      <!-- 🔗 -->
+                  </span>
+                  <span>HuggingFace</span>
+
+                </a>
+              </span>
+
+                  <p>
+                  The HuggingFace link is now available. The Arxiv and GitHub links will be updated in a few days.
+                  </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- Teaser video-->
+<!--<section class="hero teaser">-->
+<!--  <div class="container is-max-desktop">-->
+<!--    <div class="hero-body">-->
+<!--      <video poster="" id="tree" autoplay controls muted loop height="100%">-->
+<!--        &lt;!&ndash; Your video here &ndash;&gt;-->
+<!--        <source src="static/videos/banner_video.mp4"-->
+<!--        type="video/mp4">-->
+<!--      </video>-->
+<!--      <h2 class="subtitle has-text-centered">-->
+<!--        Aliquam vitae elit ullamcorper tellus egestas pellentesque. Ut lacus tellus, maximus vel lectus at, placerat pretium mi. Maecenas dignissim tincidunt vestibulum. Sed consequat hendrerit nisl ut maximus. -->
+<!--      </h2>-->
+<!--    </div>-->
+<!--  </div>-->
+<!--</section>-->
+
+
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <img src="static/images/overview.png" alt="Teaser Image for CoT-Bridge Project" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 10px; margin-bottom: 1.5rem;">
+      <h2 class="subtitle has-text-centered">
+        Overview of SVGenius. SVGenius evaluates (M)LLMs capabilities across three progressive dimensions: Understanding (perceptual and semantic QA), Editing (bug fixing, code optimization, style editing), and Generation (text-to-SVG, multimodal-to-SVG, style transfer). Built on real-world data from 24 domains with systematic complexity stratification, our benchmark enables comprehensive assessment of SVG processing capabilities. The radar chart shows representative model performance patterns, revealing distinct capability boundaries and degradation with increasing complexity.
+      </h2>
+    </div>
+  </div>
+</section>
+
+<!-- End teaser video -->
+
+<!-- Paper abstract -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Large Language Models (LLMs) and Multimodal LLMs have shown promising capabilities for SVG processing, yet existing benchmarks suffer from limited real-world coverage, lack of complexity stratification, and fragmented evaluation paradigms. We introduce SVGenius, a comprehensive benchmark comprising 2,377 queries across three progressive dimensions: understanding, editing, and generation. Built on real-world data from 24 application domains with systematic complexity stratification, SVGenius evaluates models through 8 task categories and 18 metrics. We assess 24 mainstream models spanning different scales, architectures, training paradigms, and accessibility levels. Our analysis reveals that while proprietary models significantly outperform open-source counterparts, all models exhibit systematic performance degradation with increasing complexity, indicating fundamental limitations in current approaches; however, reasoning-enhanced training proves more effective than pure scaling for overcoming these limitations, though style transfer remains the most challenging capability across all model types. SVGenius establishes the first systematic evaluation framework for SVG processing, providing crucial insights for developing more capable vector graphics models and advancing automated graphic design applications.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End paper abstract -->
+
+
+<section class="hero is small">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <h2 class="title is-3">Dataset Construction and Validation</h2>
+      <p>
+        To address limitations in prior SVG benchmarks, SVGenius constructs a high-quality, complexity-aware dataset from over 100K real-world SVGs sourced across 24 domains. Following rigorous preprocessing and semantic validation by human annotators, 927 structurally and semantically sound samples are curated. A principled complexity stratification framework is introduced, leveraging normalized metrics—path count, control points, and command diversity—to partition samples into Easy, Moderate, and Complex tiers. Stratified sampling and manual inspection yield a balanced subset of 300 representative SVGs, laying a robust foundation for multi-dimensional evaluation across understanding, editing, and generation tasks.
+      </p>
+      <img src="static/images/method.png" alt="SVGenius dataset construction and complexity validation" style="width: 100%; max-height: 600px; object-fit: cover; border-radius: 10px; margin-bottom: 1.5rem;">
+      <p>
+        <b>Left:</b> systematic pipeline from data collection, cleaning, human filtering to complexity stratification. <b>Center:</b> 24-domain coverage across diverse applications. <b>Right:</b> validation of complexity modeling showing clear hierarchical separation across Easy, Moderate, and Complex levels through feature distributions and complexity scores.
+      </p>
+      <br>
+      <p>
+        We compare construction methods, domain diversity, complexity metrics (paths and control points), and task coverage. SVGenius provides the first comprehensive evaluation across Understanding, Editing, and Generation with systematic complexity modeling. Task abbreviations: PQA (Perceptual QA), SQA (Semantic QA), BF (Bug Fixing), CO (Code Optimization), SE (Style Editing), TTG (Text-to-SVG), ITG (Image-to-SVG), ST (Style Transfer).
+      </p>
+       </p>
+      <img src="static/images/compare.png" alt="SVGenius compare" style="width: 100%; max-height: 600px; object-fit: cover; border-radius: 10px; margin-bottom: 1.5rem;">
+      <p>
+    </div>
+  </div>
+</section>
+
+<!--<section class="section hero is-light">-->
+<!--  <div class="container is-max-desktop">-->
+<!--    <div class="hero-body">-->
+<!--      <h2 class="title is-3">Results</h2>-->
+<!--      <p>-->
+<!--        SVGenius evaluates 22 diverse (M)LLMs across three SVG processing dimensions under a zero-shot setting, revealing significant capability disparities. Proprietary models lead overall but degrade sharply with rising complexity, while reasoning-enhanced training consistently outperforms pure scaling, especially in complex understanding and generation tasks. Open-source models exhibit scalability benefits but remain limited by architectural and training constraints. Specialized models show domain-specific strength but lack generalizability. Crucially, all models exhibit systematic degradation patterns, underscoring fundamental limitations in current approaches and highlighting the need for structure-aware, reasoning-rich training paradigms.-->
+<!--      </p>-->
+<!--      <img src="static/images/main-result.png" alt="Main experimental results of CoT-Bridge" style="width: 100%; max-height: 800px; object-fit: cover; border-radius: 10px; margin-bottom: 1.5rem;">-->
+<!--      <p>-->
+<!--        Main results (%) on mathematical benchmarks. MATH, GaoKao, Odyssey, and Olympiad correspond to the MATH500, GaoKao2023EN, MathOdyssey, and OlympiadBenchEN benchmarks, respectively. QwenBridger-S and QwenBridger-L represent zero-shot bridging based on Qwen2.5-Instruct-7B and Qwen2.5-Instruct-72B, respectively. CoT-Bridge-R stands for CoT-Bridge-Random.-->
+<!--      </p>-->
+<!--    </div>-->
+<!--  </div>-->
+<!--</section>-->
+
+
+<!-- Image carousel-->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="container">
+      <h2 class="title is-3">Results</h2>
+      <p>
+        SVGenius evaluates 22 diverse (M)LLMs across three SVG processing dimensions under a zero-shot setting, revealing significant capability disparities. Proprietary models lead overall but degrade sharply with rising complexity, while reasoning-enhanced training consistently outperforms pure scaling, especially in complex understanding and generation tasks. Open-source models exhibit scalability benefits but remain limited by architectural and training constraints. Specialized models show domain-specific strength but lack generalizability. Crucially, all models exhibit systematic degradation patterns, underscoring fundamental limitations in current approaches and highlighting the need for structure-aware, reasoning-rich training paradigms.
+      </p>
+      <div id="results-carousel" class="carousel results-carousel">
+
+<!--        <div class="item is-flex is-flex-direction-column is-align-items-center">-->
+<!--&lt;!&ndash;          <h2 class="title is-3">Plug-and-Play Integration</h2>&ndash;&gt;-->
+<!--          <img src="static/images/table2.png" style="max-width: 80%;"/>-->
+<!--          <h2 class="subtitle has-text-centered">-->
+<!--            Performance on SVG understanding dimension across different model types and difficulty levels for selected models. Accuracy scores are shown for Perceptual QA and Semantic QA tasks.-->
+<!--          </h2>-->
+<!--        </div>-->
+
+<!--        <div class="item is-flex is-flex-direction-column is-align-items-center">-->
+<!--&lt;!&ndash;          <h2 class="title is-3">Plug-and-Play Integration</h2>&ndash;&gt;-->
+<!--          <img src="static/images/table3.png" style="margin-bottom: 0.5rem; max-width: 40%;"/>-->
+<!--          <h2 class="subtitle has-text-centered">-->
+<!--            Performance on SVG editing dimension across different model types and difficulty levels for selected models. Results are reported using task-specific metrics (ACC, rMSE, RLD, MSE, CCR) for Bug Fixing, Style Editing, and Code Optimization tasks.-->
+<!--          </h2>-->
+<!--        </div>-->
+
+
+<!--        <div class="item is-flex is-flex-direction-column is-align-items-center">-->
+<!--&lt;!&ndash;          <h2 class="title is-3">Plug-and-Play Integration</h2>&ndash;&gt;-->
+<!--          <img src="static/images/table4.png" style="max-width: 80%;"/>-->
+<!--          <h2 class="subtitle has-text-centered" style="margin-top: 1rem;">-->
+<!--            Performance on SVG generation dimension across different model types and difficulty levels for selected models. Results are reported using task-specific metrics (HPS, rCLIP, FSS, Cart., Line, 3D) for Text-based Generation and Style Transfer tasks.-->
+<!--          </h2>-->
+<!--        </div>-->
+
+
+        <div class="item is-flex is-flex-direction-column is-align-items-center">
+<!--          <h2 class="title is-3">Thought Leap Bridge Task Evaluation</h2>-->
+          <img src="static/images/table5.png" style="max-width: 50%;"/>
+          <h2 class="subtitle has-text-centered" style="max-width: 80%;">
+            Performance on SVG generation dimension across different model types and difficulty levels. Results are reported using task-specific metrics (SSIM, LPIPS, MSE, DINO, PSS) for Image-to-SVG.
+          </h2>
+        </div>
+
+        <div class="item is-flex is-flex-direction-column is-align-items-center">
+<!--          <h2 class="title is-3">OOD Evaluation</h2>-->
+          <img src="static/images/table8.png" alt="MY ALT TEXT" style="max-width: 80%;"/>
+          <h2 class="subtitle has-text-centered">
+            Performance on SVG understanding dimension across different model types and difficulty levels. Accuracy scores are shown for Perceptual QA and Semantic QA tasks, with models marked as reasoning (<span style="color:green;">★</span>), code (<span style="color:blue;">★</span>), open-source (<span style="color:red;">★</span>), or proprietary (<span style="color:black;">★</span>) variants.
+          </h2>
+
+        </div>
+
+        <div class="item is-flex is-flex-direction-column is-align-items-center">
+<!--          <h2 class="title is-3">Bridging Positions</h2>-->
+          <img src="static/images/table9.png" alt="MY ALT TEXT" style="max-width: 50%;"/>
+          <h2 class="subtitle has-text-centered">
+  Performance on SVG editing dimension across different model types and difficulty levels. Results are reported using task-specific metrics (ACC, rMSE, RLC, CCR) for Bug Fixing, Style Editing and Code Optimization tasks, with models marked as reasoning (<span style="color:green;">★</span>), code (<span style="color:blue;">★</span>), open-source (<span style="color:red;">★</span>), or proprietary (<span style="color:black;">★</span>) variants.
+</h2>
+
+        </div>
+
+
+        <div class="item is-flex is-flex-direction-column is-align-items-center">
+          <img src="static/images/table10.png" alt="Reinforcement Learning Training Curve" style="margin-bottom: 0.5rem; max-width: 50%;"/>
+          <h2 class="subtitle has-text-centered" style="margin-top: 1rem;">
+  Performance on SVG generation dimension across different model types and difficulty levels. Results are reported using task-specific metrics (CLIP, AES, HPS, rCLIP, FSS, Cart., Pixel, Line, 3D) for Text-based Generation and Style Transfer tasks, with models marked as reasoning (<span style="color:green;">★</span>), code (<span style="color:blue;">★</span>), open-source (<span style="color:red;">★</span>), or proprietary (<span style="color:black;">★</span>) variants.
+</h2>
+
+        </div>
+
+        <div class="item is-flex is-flex-direction-column is-align-items-center">
+          <img src="static/images/table11.png" alt="Reinforcement Learning Results" style="max-width: 80%;"/>
+          <h2 class="subtitle has-text-centered" style="margin-top: 1rem;">
+  Performance on SVG generation dimension across different model types and difficulty levels. Results are reported using task-specific metrics (CP, DF, SC, CH, CB) for Style Transfer tasks, with models marked as reasoning (<span style="color:green;">★</span>), code (<span style="color:blue;">★</span>), open-source (<span style="color:red;">★</span>), or proprietary (<span style="color:black;">★</span>) variants.
+</h2>
+
+        </div>
+
+
+  </div>
+</div>
+</div>
+</section>
+
+<!-- End image carousel -->
+
+
+
+
+<!--&lt;!&ndash; Youtube video &ndash;&gt;-->
+<!--<section class="hero is-small is-light">-->
+<!--  <div class="hero-body">-->
+<!--    <div class="container">-->
+<!--      &lt;!&ndash; Paper video. &ndash;&gt;-->
+<!--      <h2 class="title is-3">Video Presentation</h2>-->
+<!--      <div class="columns is-centered has-text-centered">-->
+<!--        <div class="column is-four-fifths">-->
+<!--          -->
+<!--          <div class="publication-video">-->
+<!--            &lt;!&ndash; Youtube embed code here &ndash;&gt;-->
+<!--            <iframe src="https://www.youtube.com/embed/JkaxUblCGz0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </div>-->
+<!--  </div>-->
+<!--</section>-->
+<!--&lt;!&ndash; End youtube video &ndash;&gt;-->
+
+
+<!--&lt;!&ndash; Video carousel &ndash;&gt;-->
+<!--<section class="hero is-small">-->
+<!--  <div class="hero-body">-->
+<!--    <div class="container">-->
+<!--      <h2 class="title is-3">Another Carousel</h2>-->
+<!--      <div id="results-carousel" class="carousel results-carousel">-->
+<!--        <div class="item item-video1">-->
+<!--          <video poster="" id="video1" autoplay controls muted loop height="100%">-->
+<!--            &lt;!&ndash; Your video file here &ndash;&gt;-->
+<!--            <source src="static/videos/carousel1.mp4"-->
+<!--            type="video/mp4">-->
+<!--          </video>-->
+<!--        </div>-->
+<!--        <div class="item item-video2">-->
+<!--          <video poster="" id="video2" autoplay controls muted loop height="100%">-->
+<!--            &lt;!&ndash; Your video file here &ndash;&gt;-->
+<!--            <source src="static/videos/carousel2.mp4"-->
+<!--            type="video/mp4">-->
+<!--          </video>-->
+<!--        </div>-->
+<!--        <div class="item item-video3">-->
+<!--          <video poster="" id="video3" autoplay controls muted loop height="100%">\-->
+<!--            &lt;!&ndash; Your video file here &ndash;&gt;-->
+<!--            <source src="static/videos/carousel3.mp4"-->
+<!--            type="video/mp4">-->
+<!--          </video>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </div>-->
+<!--  </div>-->
+<!--</section>-->
+<!--&lt;!&ndash; End video carousel &ndash;&gt;-->
+
+
+
+
+
+
+<!--&lt;!&ndash; Paper poster &ndash;&gt;-->
+<!--<section class="hero is-small is-light">-->
+<!--  <div class="hero-body">-->
+<!--    <div class="container">-->
+<!--      <h2 class="title">Poster</h2>-->
+
+<!--      <iframe  src="static/pdfs/sample.pdf" width="100%" height="550">-->
+<!--          </iframe>-->
+<!--        -->
+<!--      </div>-->
+<!--    </div>-->
+<!--  </section>-->
+<!--&lt;!&ndash;End paper poster &ndash;&gt;-->
+
+
+<!--BibTex citation -->
+<!--  <section class="section" id="BibTeX">-->
+<!--    <div class="container is-max-desktop content">-->
+<!--      <h2 class="title">BibTeX</h2>-->
+<!--      <pre><code>@misc{xu2025mindgapbridgingthought,-->
+<!--      title={SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation},-->
+<!--      author={Haolei Xu and Yuchen Yan and Yongliang Shen and Wenqi Zhang and Guiyang Hou and Shengpei Jiang and Kaitao Song and Weiming Lu and Jun Xiao and Yueting Zhuang},-->
+<!--      year={2025},-->
+<!--      eprint={2505.14684},-->
+<!--      archivePrefix={arXiv},-->
+<!--      primaryClass={cs.CL},-->
+<!--      url={https://arxiv.org/abs/2505.14684},-->
+<!--}</code></pre>-->
+<!--    </div>-->
+<!--</section>-->
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>
+        coming soon
+      </code></pre>
+    </div>
+</section>
+<!--End BibTex citation -->
+
+
+  <footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+
+          <p>
+            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
+            You are free to borrow the source code of this website, we just ask that you link back to this page in the footer. <br> This website is licensed under a <a rel="license"  href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Statcounter tracking code -->
+  
+<!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+
+    <!-- End of Statcounter Code -->
+
+  </body>
+  </html>
