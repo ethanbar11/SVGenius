@@ -1,14 +1,12 @@
-# 🎨 SVGenius:  Benchmarking (M)LLMs in SVG Understanding, Editing and Generation
+# 🎨 SVGenius:  Benchmarking LLMs in SVG Understanding, Editing and Generation
 
 [![Paper](https://img.shields.io/badge/Paper-Under%20Review-orange?style=for-the-badge)](https://arxiv.org/abs/2506.03139)
 [![Dataset](https://img.shields.io/badge/Dataset-Available-green?style=for-the-badge)](#data)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#license)
 
-> **Anonymous Submission** - A comprehensive benchmark for evaluating multimodal large language models on SVG processing tasks across understanding, editing, and generation dimensions.
-
 ## 🌟 Overview
 
-SVGenius is a pioneering benchmark designed to systematically evaluate the capabilities of Multimodal Large Language Models (MLLMs) in SVG processing. Our benchmark encompasses **24 diverse application domains** and provides comprehensive evaluation across three core dimensions: **Understanding**, **Editing** and **Generation**.
+SVGenius is a pioneering benchmark designed to systematically evaluate the capabilities of Large Language Models in SVG processing. Our benchmark encompasses **24 diverse application domains** and provides comprehensive evaluation across three core dimensions: **Understanding**, **Editing** and **Generation**.
 
 ## ✨ Key Contributions
 Our contributions can be summarized as:
