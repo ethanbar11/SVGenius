@@ -73,19 +73,4 @@ Evaluation Protocol
   ·Complexity Levels: Three difficulty tiers (Easy, Moderate, Complex)
   ·Statistical Robustness: Three independent runs per setting
 
-
-*Detailed results available in the [supplementary materials](./supplementary/).*
-
-
-## 📄 License
-
-This project is made available for research purposes. Please refer to the license terms for usage guidelines.
-
-## 🔗 Anonymous Submission
-
-This repository contains supplementary materials for an anonymous conference submission. All identifying information has been removed to maintain anonymity during the review process.
-
-## 🙏 Acknowledgments
-
-We thank the anonymous reviewers and the research community for their valuable feedback.
-
+*Detailed results available in the [supplementary materials](./supplementary/supplementary.pdf).*
