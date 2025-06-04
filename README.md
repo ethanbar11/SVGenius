@@ -13,7 +13,7 @@ Our contributions can be summarized as:
 
 🔍 Problem Identification: We identify key limitations in existing SVG evaluation approaches and propose a comprehensive solution
 🎯 Benchmark Innovation: We introduce SVGenius, the first large-scale, complexity-stratified benchmark for SVG processing with real-world data
-📊 Extensive Evaluation: We provide comprehensive evaluation of 24 models, establishing performance baselines and identifying key factors influencing SVG processing capabilities
+📊 Extensive Evaluation: We provide comprehensive evaluation of 22 models, establishing performance baselines and identifying key factors influencing SVG processing capabilities
 
 ## 📁 Repository Structure
 
@@ -21,8 +21,8 @@ Our contributions can be summarized as:
 SVGenius/
 ├── 📂 data/                    # Hierarchical Dataset
 │   ├── easy/                   # Easy level data
-│   ├── moderate/               # Moderate level data
-│   └── complex/                # Complex level data
+│   ├── medium/               # Moderate level data
+│   └── hard/                # Complex level data
 ├── 📂 tasks/                  # Eight task subcategories
 │   ├── understanding/          # Understanding dimension includes semantic QA and perception QA
 │   ├── editing/                # Editing dimension includes code optimization, style editing and bug fixing
@@ -45,7 +45,7 @@ SVGenius/
 
 ### 🎨 Generation Dimension
 - **Text-to-SVG Generation**: Creating SVG from textual descriptions
-- **Multimodal-to-SVG Generation**: SVG creation from multiple input modalities
+- **Image-to-SVG Generation**: SVG creation from multiple input modalities
 - **Style Transfer**: Applying artistic styles to existing SVGs
 
 ## 📊 Benchmark Statistics
@@ -55,7 +55,7 @@ SVGenius/
 | Total Samples | 2377 |
 | Application Domains | 24 |
 | Task Categories | 8 |
-| Difficulty Levels | 3 (Easy/Moderate/Complex) |
+| Difficulty Levels | 3 (Easy/Medium/Hard) |
 | Evaluated Models | 22 |
 
 🧪 Model Evaluation
@@ -70,7 +70,7 @@ Our evaluation encompasses:
 
 Evaluation Protocol
   ·Zero-shot Settings: All models evaluated using default configurations
-  ·Complexity Levels: Three difficulty tiers (Easy, Moderate, Complex)
+  ·Complexity Levels: Three difficulty tiers (Easy, Medium, Hard)
   ·Statistical Robustness: Three independent runs per setting
 
 *Detailed results available in the [supplementary materials](./supplementary/supplementary.pdf).*
