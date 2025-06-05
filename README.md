@@ -1,10 +1,17 @@
 # 🎨 SVGenius:  Benchmarking LLMs in SVG Understanding, Editing and Generation
 
-![arXiv](https://img.shields.io/badge/arXiv-ViewSpatial%20Bench-red?style=for-the-badge) :page_with_curl:
-![Benchmark](https://img.shields.io/badge/Benchmark-ViewSpatial%20Bench-orange?style=for-the-badge) :bar_chart:
-![Website](https://img.shields.io/badge/Website-ViewSpatial%20Bench-green?style=for-the-badge) :globe_with_meridians:
 
-
+<div align="center">
+    <a href="https://huggingface.co/papers/2506.0313" target="_blank">
+        <img alt="arXiv" src="https://img.shields.io/badge/arXiv-SVGenius-red?logo=arxiv" height="20" />
+    </a>
+    <a href="https://huggingface.co/datasets/xiaoooobai/SVGenius" target="_blank">
+        <img alt="SVGenius" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-SVGenius-ffc107?color=ffc107&logoColor=white" height="20" />
+    </a>
+    <a href="https://zju-real.github.io/SVGenius/" target="_blank">
+        <img alt="Webpage" src="https://img.shields.io/badge/%F0%9F%8C%8E_Website-SVGenius-green.svg" height="20" />
+    </a>
+</div>
 
 
 ## 🌟 Overview
