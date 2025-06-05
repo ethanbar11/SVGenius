@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <a href="https:https://arxiv.org/abs/2506.03139" target="_blank">
+    <a href="https://arxiv.org/abs/2506.03139" target="_blank">
         <img alt="arXiv" src="https://img.shields.io/badge/arXiv-SVGenius-red?logo=arxiv" height="20" />
     </a>
     <a href="https://huggingface.co/datasets/xiaoooobai/SVGenius" target="_blank">
@@ -24,6 +24,11 @@ SVGenius evaluates (M)LLMs capabilities across three progressive dimensions: **U
 Comparison of SVGenius with existing SVG processing benchmarks. 
 
 <img src="docs/static/images/compare.png" width="100%"/>
+
+## 🔥🔥🔥 News !!
+
+- [2025/06/04] 👋 Release Datasets. 🤗[Dataset](https://huggingface.co/datasets/xiaoooobai/SVGenius).
+- [2025/06/04] 👋 Unpload paper. [Arxiv](https://arxiv.org/abs/2506.03139).
 
 ## ✨ Key Contributions
 Our contributions can be summarized as:
