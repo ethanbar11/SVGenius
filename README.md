@@ -1,9 +1,9 @@
 # 🎨 SVGenius:  Benchmarking LLMs in SVG Understanding, Editing and Generation
 
 <p align="center">
-  [![arXiv](https://img.shields.io/badge/arXiv-ViewSpatial%20Bench-red?style=for-the-badge)](https://arxiv.org/abs/2506.03139) :page_with_curl:
-  [![Benchmark](https://img.shields.io/badge/Benchmark-ViewSpatial%20Bench-orange?style=for-the-badge)](#) :bar_chart:
-  [![Website](https://img.shields.io/badge/Website-ViewSpatial%20Bench-green?style=for-the-badge)](#) :globe_with_meridians:
+  ![arXiv](https://img.shields.io/badge/arXiv-ViewSpatial%20Bench-red?style=for-the-badge) :page_with_curl:
+  ![Benchmark](https://img.shields.io/badge/Benchmark-ViewSpatial%20Bench-orange?style=for-the-badge) :bar_chart:
+  ![Website](https://img.shields.io/badge/Website-ViewSpatial%20Bench-green?style=for-the-badge) :globe_with_meridians:
 </p>
 
 
