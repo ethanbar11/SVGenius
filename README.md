@@ -1,8 +1,9 @@
 # 🎨 SVGenius:  Benchmarking LLMs in SVG Understanding, Editing and Generation
 
-[![Paper](https://img.shields.io/badge/Paper-Under%20Review-orange?style=for-the-badge)](https://arxiv.org/abs/2506.03139)
-[![Dataset](https://img.shields.io/badge/Dataset-Available-green?style=for-the-badge)](https://huggingface.co/datasets/xiaoooobai/SVGenius/tree/main)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#license)
+[![arXiv](https://img.shields.io/badge/arXiv-ViewSpatial%20Bench-red?style=for-the-badge)](https://arxiv.org/abs/2506.03139)
+[![Benchmark](https://img.shields.io/badge/Benchmark-ViewSpatial%20Bench-orange?style=for-the-badge)](#)
+[![Website](https://img.shields.io/badge/Website-ViewSpatial%20Bench-green?style=for-the-badge)](#)
+
 
 ## 🌟 Overview
 
