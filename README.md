@@ -1,4 +1,4 @@
-<h1><i>SVGenius</i>: Benchmarking LLMs in SVG Understanding, Editing and Generation</h1>
+<h2><i>SVGenius</i>: Benchmarking LLMs in SVG Understanding, Editing and Generation</h2>
 
 <div align="center">
     <a href="https://arxiv.org/abs/2506.03139" target="_blank">
