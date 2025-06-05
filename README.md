@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <a href="https://huggingface.co/papers/2506.0313" target="_blank">
+    <a href="https:https://arxiv.org/abs/2506.03139" target="_blank">
         <img alt="arXiv" src="https://img.shields.io/badge/arXiv-SVGenius-red?logo=arxiv" height="20" />
     </a>
     <a href="https://huggingface.co/datasets/xiaoooobai/SVGenius" target="_blank">
