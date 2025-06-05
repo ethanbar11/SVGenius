@@ -13,6 +13,10 @@
     </a>
 </div>
 
+## 🔥🔥🔥 News !!
+
+- [2025/06/04] 👋 Release Datasets. 🤗[Dataset](https://huggingface.co/datasets/xiaoooobai/SVGenius).
+- [2025/06/04] 👋 Unpload paper. [Arxiv](https://arxiv.org/abs/2506.03139).
 
 ## 🌟 Overview
 
@@ -25,17 +29,11 @@ Comparison of SVGenius with existing SVG processing benchmarks.
 
 <img src="docs/static/images/compare.png" width="100%"/>
 
-## 🔥🔥🔥 News !!
+## ✨ Data Construct
 
-- [2025/06/04] 👋 Release Datasets. 🤗[Dataset](https://huggingface.co/datasets/xiaoooobai/SVGenius).
-- [2025/06/04] 👋 Unpload paper. <img alt="arXiv" src="https://img.shields.io/badge/arXiv-SVGenius-red?logo=arxiv" height="20" />[Arxiv](https://arxiv.org/abs/2506.03139).
+Current SVG benchmarks face critical limitations in data quality and diversity.To address these limitations, we construct a comprehensive dataset with principled complexity stratification as show in the following figure: Left: systematic pipeline from data collection, processing, human filtering to complexity stratification. Center: 24-domain coverage across diverse applications. Right: validation of complexity stratification showing clear hierarchical separation across Easy, Medium, and Hard levels through feature distributions and complexity scores.
 
-## ✨ Key Contributions
-Our contributions can be summarized as:
-
-🔍 Problem Identification: We identify key limitations in existing SVG evaluation approaches and propose a comprehensive solution
-🎯 Benchmark Innovation: We introduce SVGenius, the first large-scale, complexity-stratified benchmark for SVG processing with real-world data
-📊 Extensive Evaluation: We provide comprehensive evaluation of 22 models, establishing performance baselines and identifying key factors influencing SVG processing capabilities
+<img src="docs/static/images/data_construct.jpg" width="100%"/>
 
 ## 📁 Repository Structure
 
