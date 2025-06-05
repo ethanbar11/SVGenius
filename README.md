@@ -41,8 +41,10 @@ Current SVG benchmarks face critical limitations in data quality and diversity.T
 We evaluate a diverse set of models on SVGenius to assess SVG processing capabilities across different architectures, scales, and training paradigms:
 
 🔒 Proprietary Models: GPT-4o, Gemini-2.0-Flash, Claude 3.7-Sonnet
+
 🌐 Open-Source Models: Representative models spanning 1.5B to 72B parameters
-  ·DeepSeek-R1, Qwen2.5/3, Llama-3.2, Mistral-Small
+  ·DeepSeek-R1, Qwen2.5/3, Llama-3.2, Mistral-Small (16 models)
+  
 🎨 SVG-Specialized Systems: Iconshop, StarVector, LLM4SVG
 
 *Detailed results available in the [supplementary materials](./supplementary/supplementary.pdf).*
