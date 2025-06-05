@@ -20,6 +20,7 @@ SVGenius evaluates (M)LLMs capabilities across three progressive dimensions: **U
 
 <img src="docs/static/images/overview.jpg" width="100%"/>
 
+
 Comparison of SVGenius with existing SVG processing benchmarks. 
 
 <img src="docs/static/images/compare.png" width="100%"/>
