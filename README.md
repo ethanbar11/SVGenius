@@ -35,62 +35,39 @@ Current SVG benchmarks face critical limitations in data quality and diversity.T
 
 <img src="docs/static/images/data_construct.jpg" width="100%"/>
 
-## 📁 Repository Structure
-
-```
-SVGenius/
-├── 📂 data/                    # Hierarchical Dataset
-│   ├── easy/                   # Easy level data
-│   ├── medium/               # Moderate level data
-│   └── hard/                # Complex level data
-├── 📂 tasks/                  # Eight task subcategories
-│   ├── understanding/          # Understanding dimension includes semantic QA and perception QA
-│   ├── editing/                # Editing dimension includes code optimization, style editing and bug fixing
-│   └── generation/             # Generation dimension includes text-to-svg, multimodel-to-svg and style transferr
-├── 📂 supplementary/          # Additional materials
-│   └── appendix.pdf           # Appendix includes data construction, tasks, metrics and more details
-└── 📄 README.md               # This file
-```
-
-## 🎯 Task Categories
-
-### 🔍 Understanding Dimension
-- **Perceptual QA**: Visual understanding of SVG elements and layouts
-- **Semantic QA**: Comprehension of symbolic meanings and relationships
-
-### ✏️ Editing Dimension  
-- **Bug Fixing**: Identification and correction of SVG code errors
-- **Code Optimization**: Performance and efficiency improvements
-- **Style Editing**: Visual appearance modifications
-
-### 🎨 Generation Dimension
-- **Text-to-SVG Generation**: Creating SVG from textual descriptions
-- **Image-to-SVG Generation**: SVG creation from multiple input modalities
-- **Style Transfer**: Applying artistic styles to existing SVGs
-
 ## 📊 Benchmark Statistics
 
-| Metric | Count |
-|--------|-------|
-| Total Samples | 2377 |
-| Application Domains | 24 |
-| Task Categories | 8 |
-| Difficulty Levels | 3 (Easy/Medium/Hard) |
-| Evaluated Models | 22 |
-
 🧪 Model Evaluation
-We evaluate a diverse set of models on SVGenius to assess SVG processing capabilities across different architectures, scales, and training paradigms.
-Evaluated Models
-Our evaluation encompasses:
+We evaluate a diverse set of models on SVGenius to assess SVG processing capabilities across different architectures, scales, and training paradigms:
 
 🔒 Proprietary Models: GPT-4o, Gemini-2.0-Flash, Claude 3.7-Sonnet
 🌐 Open-Source Models: Representative models spanning 1.5B to 72B parameters
   ·DeepSeek-R1, Qwen2.5/3, Llama-3.2, Mistral-Small
 🎨 SVG-Specialized Systems: Iconshop, StarVector, LLM4SVG
 
-Evaluation Protocol
-  ·Zero-shot Settings: All models evaluated using default configurations
-  ·Complexity Levels: Three difficulty tiers (Easy, Medium, Hard)
-  ·Statistical Robustness: Three independent runs per setting
-
 *Detailed results available in the [supplementary materials](./supplementary/supplementary.pdf).*
+
+## 📁 QucikStart
+
+```
+SVGenius/
+├── 📂 docs/                    # project page code
+├── 📂 src/                    # data construct and evaluate code (coming soon)
+├── 📂 supplementary/          # Additional materials
+│   └── appendix.pdf           # Appendix includes data construction, tasks, metrics and more details
+└── 📄 README.md               # This file
+```
+
+## Citation
+
+```bibtex
+@misc{chen2025svgeniusbenchmarkingllmssvg,
+      title={SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation}, 
+      author={Siqi Chen and Xinyu Dong and Haolei Xu and Xingyu Wu and Fei Tang and Hang Zhang and Yuchen Yan and Linjuan Wu and Wenqi Zhang and Guiyang Hou and Yongliang Shen and          Weiming Lu and Yueting Zhuang},
+      year={2025},
+      eprint={2506.03139},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.03139}, 
+}
+```
