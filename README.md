@@ -1,5 +1,4 @@
-# 🎨 SVGenius:  Benchmarking LLMs in SVG Understanding, Editing and Generation
-
+<h2align="center"><strong>OmniSVG: A Unified Scalable Vector Graphics Generation Model</strong></h2>
 
 <div align="center">
     <a href="https://arxiv.org/abs/2506.03139" target="_blank">
