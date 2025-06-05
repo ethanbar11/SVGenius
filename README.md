@@ -28,7 +28,7 @@ Comparison of SVGenius with existing SVG processing benchmarks.
 ## 🔥🔥🔥 News !!
 
 - [2025/06/04] 👋 Release Datasets. 🤗[Dataset](https://huggingface.co/datasets/xiaoooobai/SVGenius).
-- [2025/06/04] 👋 Unpload paper. [Arxiv](https://arxiv.org/abs/2506.03139).
+- [2025/06/04] 👋 Unpload paper. <img alt="arXiv" src="https://img.shields.io/badge/arXiv-SVGenius-red?logo=arxiv" height="20" />[Arxiv](https://arxiv.org/abs/2506.03139).
 
 ## ✨ Key Contributions
 Our contributions can be summarized as:
