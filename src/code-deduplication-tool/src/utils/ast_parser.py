@@ -1,0 +1,10 @@
+code_analysis_tool/
+│
+├── src/
+│   ├── file1.py
+│   ├── file2.py
+│   └── ...
+│
+├── analysis.py
+├── requirements.txt
+└── README.md
