@@ -16,6 +16,7 @@
 
 - [2025/06/04] 👋 Release Datasets. 🤗[Dataset](https://huggingface.co/datasets/xiaoooobai/SVGenius).
 - [2025/06/04] 👋 Unpload paper. [Arxiv](https://arxiv.org/abs/2506.03139).
+- [2025/06/14] 👋 Release the evaluation code.
 
 ## 🌟 Overview
 
@@ -50,7 +51,7 @@ We evaluate a diverse set of models on SVGenius to assess SVG processing capabil
 ```
 SVGenius/
 ├── 📂 docs/                    # project page code
-├── 📂 src/                    # data construct and evaluate code (coming soon)
+├── 📂 src/                    # data construct and evaluate code
 ├── 📂 supplementary/          # Additional materials
 │   └── appendix.pdf           # Appendix includes data construction, tasks, metrics and more details
 └── 📄 README.md               # This file
