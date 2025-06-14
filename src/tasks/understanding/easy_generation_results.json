@@ -1,0 +1,3443 @@
+[
+  {
+    "index": 0,
+    "image_path": "../../../data/easy/process/page_301_创意简洁图标_12866_icon_17.png",
+    "caption": "an icon of a wallet with a lock on it",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the wallet in the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Triangle",
+          "C": "Rectangle",
+          "D": "Pentagon"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does the presence of the lock symbolize in this icon?",
+        "option": {
+          "A": "The wallet is empty",
+          "B": "The wallet is secure",
+          "C": "The wallet is open",
+          "D": "The wallet is damaged"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might a designer choose to include a lock within a wallet icon?",
+        "option": {
+          "A": "To indicate the wallet's physical size",
+          "B": "To suggest the wallet is for children",
+          "C": "To emphasize security and privacy of contents",
+          "D": "To show the wallet is made of metal"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 1,
+    "image_path": "../../../data/easy/process/page_692_渣渣_1147_icon_27.png",
+    "caption": "a v shaped icon",
+    "questions": {
+      "question1": {
+        "question": "How many distinct lines form the V-shaped icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context is this V-shaped icon most commonly used?",
+        "option": {
+          "A": "As a symbol for victory",
+          "B": "To indicate a downward direction",
+          "C": "As a checkmark for confirmation",
+          "D": "To represent a letter in an alphabet"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen rounded ends for the lines in the V-shaped icon instead of sharp points?",
+        "option": {
+          "A": "To make the icon more difficult to recognize",
+          "B": "To enhance the icon's association with sharpness and precision",
+          "C": "To create a softer, more approachable appearance that improves user experience",
+          "D": "To align with a specific cultural symbolism"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 2,
+    "image_path": "../../../data/easy/process/page_153_大美_37475_icon_25.png",
+    "caption": "a dark blue ticket with a yen symbol in the center",
+    "questions": {
+      "question1": {
+        "question": "What shape does the icon primarily resemble?",
+        "option": {
+          "A": "A rectangle",
+          "B": "A circle",
+          "C": "A square",
+          "D": "An oval"
+        },
+        "answer": "A"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To represent a currency exchange service",
+          "B": "To indicate a discount on goods",
+          "C": "To signify admission to an event",
+          "D": "To denote a financial transaction in Japan"
+        },
+        "answer": "D"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the yen symbol at the center of the ticket shape?",
+        "option": {
+          "A": "To emphasize the importance of the yen in global trade",
+          "B": "To visually connect the concept of payment with entry or access",
+          "C": "To make the icon more aesthetically pleasing",
+          "D": "To differentiate it from other currency symbols"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 3,
+    "image_path": "../../../data/easy/process/page_27_033-线面常用_47315_icon_7.png",
+    "caption": "an orange sphere with a black curved ring",
+    "questions": {
+      "question1": {
+        "question": "What is the orientation of the black curved ring relative to the orange sphere?",
+        "option": {
+          "A": "It wraps around the sphere from lower left to upper right",
+          "B": "It forms a complete circle surrounding the sphere",
+          "C": "It intersects directly through the center of the sphere",
+          "D": "It wraps around the sphere from upper left to lower right"
+        },
+        "answer": "A"
+      },
+      "question2": {
+        "question": "Which of the following could this icon represent?",
+        "option": {
+          "A": "A planet and its orbit",
+          "B": "A digital clock",
+          "C": "A music note",
+          "D": "A calendar event."
+        },
+        "answer": "A"
+      },
+      "question3": {
+        "question": "How does the placement of the black curved ring contribute to the overall meaning of the icon?",
+        "option": {
+          "A": "It suggests motion or rotation around the sphere",
+          "B": "It divides the sphere into two equal parts for balance",
+          "C": "It creates a shadow effect to give depth",
+          "D": "It symbolizes a break or interruption in the sphere's continuity."
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 4,
+    "image_path": "../../../data/easy/process/page_25_单色圆角面性_49216_icon_754.png",
+    "caption": "black icon featuring a bone and a star-shaped graphic",
+    "questions": {
+      "question1": {
+        "question": "What are the primary shapes present in the icon?",
+        "option": {
+          "A": "Circle and triangle",
+          "B": "Bone and star",
+          "C": "Square and pentagon",
+          "D": "Heart and cross"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon likely represent?",
+        "option": {
+          "A": "A medical facility",
+          "B": "A pet-related service",
+          "C": "A navigation app",
+          "D": "A financial institution"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to combine a bone and a star in this icon?",
+        "option": {
+          "A": "To symbolize strength and guidance",
+          "B": "To indicate a high-quality pet product or service",
+          "C": "To represent a celestial event related to animals",
+          "D": "To create a playful and whimsical design for children"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 5,
+    "image_path": "../../../data/easy/process/page_381_交通线图标_20160_icon_82.png",
+    "caption": "a bicycle",
+    "questions": {
+      "question1": {
+        "question": "If the icon depicted a bicycle, which of the following would most likely describe its visual features?",
+        "option": {
+          "A": "A single large circle representing a unicycle",
+          "B": "Two circles connected by a frame with pedals",
+          "C": "Three wheels arranged in a triangular formation",
+          "D": "Four wheels in a rectangular layout."
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does a bicycle icon typically represent in digital interfaces?",
+        "option": {
+          "A": "A car rental service",
+          "B": "A mode of eco-friendly transportation",
+          "C": "A public bus schedule",
+          "D": "An airplane flight tracker."
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Considering user experience, why might a designer choose a simple two-wheeled bicycle icon over a more detailed depiction?",
+        "option": {
+          "A": "To confuse users about the type of vehicle",
+          "B": "To ensure clarity and quick recognition at small sizes",
+          "C": "To increase the file size unnecessarily",
+          "D": "To make it harder for users to understand the icon's purpose."
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 6,
+    "image_path": "../../../data/easy/process/page_259_CATL_ICON_27028_icon_20.png",
+    "caption": "a black flag with a white plus sign on it",
+    "questions": {
+      "question1": {
+        "question": "What is the shape of the bottom right corner of the icon?",
+        "option": {
+          "A": "Rounded",
+          "B": "Pointed",
+          "C": "Flat",
+          "D": "Curved"
+        },
+        "answer": "D"
+      },
+      "question2": {
+        "question": "This icon is most likely used to represent which of the following?",
+        "option": {
+          "A": "A medical alert",
+          "B": "A bookmark",
+          "C": "A warning signal",
+          "D": "A navigation tool"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a white plus sign on a black background for this icon?",
+        "option": {
+          "A": "To make it visually appealing for children",
+          "B": "To ensure high contrast and visibility for easy recognition",
+          "C": "To align with traditional color schemes for medical symbols",
+          "D": "To create a sense of urgency and danger"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 7,
+    "image_path": "../../../data/easy/process/page_246_System_Icon_27849_icon_445.png",
+    "caption": "a telephone handset with an arrow pointing to the lower left corner",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are combined to form this icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent in a user interface?",
+        "option": {
+          "A": "An incoming call notification",
+          "B": "A missed call alert",
+          "C": "A call forwarding feature",
+          "D": "A call recording function"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the arrow pointing to the lower left corner next to the telephone handset?",
+        "option": {
+          "A": "To indicate that calls are being redirected away from the current device",
+          "B": "To suggest that the call volume is decreasing",
+          "C": "To imply that the call is being transferred to a previous step in a process",
+          "D": "To show that the call is being saved or archived"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 8,
+    "image_path": "../../../data/easy/process/page_42_练习_44440_icon_2.png",
+    "caption": "an email icon with a blue arrow",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the main part of the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Triangle",
+          "C": "Rectangle",
+          "D": "Square"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To represent a file folder",
+          "B": "To indicate a phone call",
+          "C": "To signify an email message",
+          "D": "To show a calendar event"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a blue arrow within the envelope shape?",
+        "option": {
+          "A": "To make the icon more colorful and visually appealing",
+          "B": "To symbolize the action of sending or receiving messages",
+          "C": "To differentiate it from other icons using red arrows",
+          "D": "To indicate that the email is urgent"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 9,
+    "image_path": "../../../data/easy/process/page_76_双色线性图标_38808_icon_10.png",
+    "caption": "a black outline folder with an orange L-shaped element behind it",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the background of the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Square",
+          "C": "Rectangle",
+          "D": "Triangle"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does the icon most likely represent?",
+        "option": {
+          "A": "A music note",
+          "B": "A file directory",
+          "C": "A calendar event",
+          "D": "A location marker"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen an orange L-shaped element for this icon?",
+        "option": {
+          "A": "To symbolize a specific brand color",
+          "B": "To enhance visibility and contrast against the black folder",
+          "C": "To indicate a level or layer within a file system",
+          "D": "To represent a letter 'L' for 'library'"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 10,
+    "image_path": "../../../data/easy/process/page_285_REMIX_ICON_V2.5（最新版）_25353_icon_2020.png",
+    "caption": "a black hexagonal icon with a solid circle",
+    "questions": {
+      "question1": {
+        "question": "What shape forms the outer boundary of the icon?",
+        "option": {
+          "A": "Square",
+          "B": "Circle",
+          "C": "Hexagon",
+          "D": "Triangle"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A stop sign",
+          "B": "A button",
+          "C": "A gear",
+          "D": "A warning symbol"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a hexagon over other shapes for this icon?",
+        "option": {
+          "A": "To make it look more modern",
+          "B": "To fit more icons in a grid layout efficiently",
+          "C": "To symbolize a specific concept like a honeycomb",
+          "D": "Hexagons are easier to draw"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 11,
+    "image_path": "../../../data/easy/process/page_126_广州智讯图标库_40434_icon_201.png",
+    "caption": "crossed-out arrows pointing in opposite directions",
+    "questions": {
+      "question1": {
+        "question": "What visual feature is most prominent in the icon?",
+        "option": {
+          "A": "A single arrow",
+          "B": "Two arrows pointing in the same direction",
+          "C": "Crossed-out arrows pointing in opposite directions",
+          "D": "A circle encompassing the arrows."
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon likely represent in a user interface context?",
+        "option": {
+          "A": "A refresh button",
+          "B": "An undo action",
+          "C": "The prohibition of opposing actions",
+          "D": "A navigation toggle."
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might a designer choose to cross out the arrows instead of simply not including them?",
+        "option": {
+          "A": "To save space in the design",
+          "B": "To indicate that the arrows are temporarily disabled",
+          "C": "To explicitly communicate that opposing actions are not allowed",
+          "D": "To create a more aesthetically pleasing icon."
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 12,
+    "image_path": "../../../data/easy/process/page_109_小假哥_填充_icon080_42758_icon_7.png",
+    "caption": "a group of three people",
+    "questions": {
+      "question1": {
+        "question": "How many distinct human-like figures are represented in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent in a digital context?",
+        "option": {
+          "A": "Individual user profile",
+          "B": "Team collaboration or group settings",
+          "C": "Single-person chat interface",
+          "D": "Personal settings menu"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to overlap the figures rather than display them side by side?",
+        "option": {
+          "A": "To save space and create a more compact icon",
+          "B": "To indicate that the individuals are unrelated",
+          "C": "To suggest a hierarchy among the figures",
+          "D": "To imply that the group is too large to fit within the icon's dimensions"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 13,
+    "image_path": "../../../data/easy/process/page_43_zpy_icon_excel工作站_44295_icon_10.png",
+    "caption": "a blue and white document with four squares in the center and a red arrow pointing right from the side",
+    "questions": {
+      "question1": {
+        "question": "How many blue squares are present within the document depicted in the icon?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "One"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent in a digital context?",
+        "option": {
+          "A": "A file download button",
+          "B": "A document export or share function",
+          "C": "A folder containing images",
+          "D": "A print preview option"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a red arrow pointing to the right alongside the document with squares?",
+        "option": {
+          "A": "To indicate that the document is moving or being sent somewhere",
+          "B": "To signify that the document is locked or restricted",
+          "C": "To show that the document is being minimized or closed",
+          "D": "To highlight that the document is currently being edited"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 15,
+    "image_path": "../../../data/easy/process/page_61_小假哥_医疗_icon015_42142_icon_28.png",
+    "caption": "a folder with a plus icon",
+    "questions": {
+      "question1": {
+        "question": "What is the color of the plus sign inside the folder icon?",
+        "option": {
+          "A": "Blue",
+          "B": "Orange",
+          "C": "Black",
+          "D": "White"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In a digital interface, this icon most likely represents which action?",
+        "option": {
+          "A": "Deleting a file",
+          "B": "Creating a new folder",
+          "C": "Opening an existing folder",
+          "D": "Moving files into a folder"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the plus sign centrally within the folder rather than at the top or bottom?",
+        "option": {
+          "A": "To make the icon more visually appealing",
+          "B": "To indicate that adding content is the primary function of this folder",
+          "C": "To save space in the design layout",
+          "D": "To align with traditional folder icons without a plus sign"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 16,
+    "image_path": "../../../data/easy/process/page_397_多色施工类icon_6158_icon_21.png",
+    "caption": "a measuring tape with a red circular body showing 'M' and 'FT' letters",
+    "questions": {
+      "question1": {
+        "question": "What shape does the main body of the measuring tape form?",
+        "option": {
+          "A": "Square",
+          "B": "Circle",
+          "C": "Triangle",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Which of the following scenarios would most likely feature this icon?",
+        "option": {
+          "A": "A music streaming app",
+          "B": "A construction project",
+          "C": "A weather forecast",
+          "D": "A cooking recipe"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include both 'M' and 'FT' on the measuring tape icon?",
+        "option": {
+          "A": "To indicate that the tape measures both mass and force",
+          "B": "To suggest the tape can measure in both metric and imperial units",
+          "C": "To confuse users about the measurement system",
+          "D": "To make the icon more visually appealing without functional significance"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 17,
+    "image_path": "../../../data/easy/process/page_63_多色面性图标_41900_icon_4.png",
+    "caption": "an orange-red speech bubble icon with two white horizontal lines inside representing text",
+    "questions": {
+      "question1": {
+        "question": "How many white horizontal lines are present inside the orange-red speech bubble?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent in a digital interface?",
+        "option": {
+          "A": "A notification bell",
+          "B": "A chat or messaging feature",
+          "C": "A file download button",
+          "D": "A settings menu"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include two white horizontal lines instead of actual text within the speech bubble?",
+        "option": {
+          "A": "To make the icon more colorful",
+          "B": "To indicate that the message is empty",
+          "C": "To symbolize generic text content without specifying the message",
+          "D": "To reduce the size of the icon"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 18,
+    "image_path": "../../../data/easy/process/page_39_双色面性图标_44878_icon_15.png",
+    "caption": "a purple circular icon containing an exclamation mark made of an orange vertical line and a white dot",
+    "questions": {
+      "question1": {
+        "question": "What is the shape of the main element within the icon?",
+        "option": {
+          "A": "Triangle",
+          "B": "Circle",
+          "C": "Square",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Which of the following scenarios would this icon most likely represent?",
+        "option": {
+          "A": "A confirmation message",
+          "B": "A warning or alert",
+          "C": "A navigation button",
+          "D": "A save function"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a purple background with an orange exclamation mark for this icon?",
+        "option": {
+          "A": "To create a calming effect",
+          "B": "To enhance readability by using contrasting colors",
+          "C": "To match the company's branding colors",
+          "D": "To indicate a positive action"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 19,
+    "image_path": "../../../data/easy/process/page_698_ico_998_icon_7.png",
+    "caption": "a black price tag or label icon with a white hole in the upper corner",
+    "questions": {
+      "question1": {
+        "question": "What is the shape of the white element within the icon?",
+        "option": {
+          "A": "Square",
+          "B": "Circle",
+          "C": "Triangle",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To indicate a location on a map",
+          "B": "As a symbol for a music note",
+          "C": "To represent a price tag on an item",
+          "D": "To signify a calendar date"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a white hole in the upper corner of the price tag icon?",
+        "option": {
+          "A": "To make the icon more colorful",
+          "B": "To mimic the physical characteristic of a real-world price tag that can be attached to items",
+          "C": "To reduce the overall size of the icon",
+          "D": "To create a random pattern for aesthetic purposes"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 20,
+    "image_path": "../../../data/easy/process/page_25_单色圆角面性_49216_icon_2392.png",
+    "caption": "a sword",
+    "questions": {
+      "question1": {
+        "question": "If the icon depicted a sword, which of the following visual features would you most likely observe?",
+        "option": {
+          "A": "A circular shape with evenly distributed spokes",
+          "B": "A long, straight blade with a hilt at one end",
+          "C": "A series of interlocking gears",
+          "D": "A curved line resembling a wave."
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In various contexts, what does an icon of a sword typically represent?",
+        "option": {
+          "A": "Peace and tranquility",
+          "B": "Navigation and direction",
+          "C": "Authority, power, or combat",
+          "D": "Communication and connection."
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Considering the design of a sword icon, why might a designer choose to include a detailed hilt alongside the blade?",
+        "option": {
+          "A": "To make the icon more difficult to recognize",
+          "B": "To symbolize the sword's historical significance in ancient cultures",
+          "C": "To enhance the icon's aesthetic appeal and clearly communicate its identity as a weapon",
+          "D": "To indicate that the sword is meant for ceremonial purposes only."
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 21,
+    "image_path": "../../../data/easy/process/page_202_ui_32694_icon_16.png",
+    "caption": "a battery ",
+    "questions": {
+      "question1": {
+        "question": "Which of the following best describes the shape of a typical battery icon?",
+        "option": {
+          "A": "A circle with a smaller circle inside",
+          "B": "A rectangle with a small protrusion on one end",
+          "C": "A triangle with rounded edges",
+          "D": "An oval with two lines crossing through it."
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would you most likely encounter this battery icon?",
+        "option": {
+          "A": "On a weather forecast app",
+          "B": "In a financial report document",
+          "C": "On a device's status bar indicating power level",
+          "D": "As a symbol for recycling instructions."
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might a designer choose to include a small protrusion on one end of the battery icon?",
+        "option": {
+          "A": "To make the icon more visually appealing by adding symmetry",
+          "B": "To indicate the positive terminal, providing clarity on battery orientation",
+          "C": "To differentiate it from other rectangular icons like a book or ticket",
+          "D": "To suggest that the battery is rechargeable rather than disposable."
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 22,
+    "image_path": "../../../data/easy/process/page_328_饰品icon_10850_icon_14.png",
+    "caption": "a plate and a spoon ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are present in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "A music streaming app",
+          "B": "A restaurant menu",
+          "C": "A weather forecast",
+          "D": "A fitness tracker"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the spoon to the right of the plate rather than above or below it?",
+        "option": {
+          "A": "To save space in the design",
+          "B": "To mimic the natural placement of utensils during dining",
+          "C": "To make the icon more abstract",
+          "D": "To indicate that the spoon is less important than the plate"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 23,
+    "image_path": "../../../data/easy/process/page_42_一张图标签_44528_icon_46.png",
+    "caption": "a chair in a circle with an arrow pointing to bottom",
+    "questions": {
+      "question1": {
+        "question": "How many distinct geometric shapes are used to form the chair within the icon?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent in a user interface context?",
+        "option": {
+          "A": "A seating reservation system",
+          "B": "A download button for furniture designs",
+          "C": "An adjustable chair setting",
+          "D": "A notification for available chairs"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include an arrow pointing downward in conjunction with the chair icon?",
+        "option": {
+          "A": "To indicate that the chair can be minimized or collapsed",
+          "B": "To suggest that the chair is being lowered into place",
+          "C": "To imply that the chair is moving to a lower priority",
+          "D": "To show that the chair is being downloaded or saved"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 24,
+    "image_path": "../../../data/easy/process/page_227_BI-OS_图表类型_18309_icon_40.png",
+    "caption": "a simplified chart or graph with two peaks",
+    "questions": {
+      "question1": {
+        "question": "How many distinct peaks are visible in the icon's graph-like shape?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What type of data visualization does this icon most closely resemble?",
+        "option": {
+          "A": "Bar chart",
+          "B": "Line graph",
+          "C": "Pie chart",
+          "D": "Scatter plot"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Considering the simplicity of the design, what is the likely purpose of using such an icon in a user interface?",
+        "option": {
+          "A": "To provide detailed statistical analysis",
+          "B": "To indicate a complex dataset",
+          "C": "To represent trends or fluctuations in a minimalistic way",
+          "D": "To serve as a decorative element without functional significance"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 25,
+    "image_path": "../../../data/easy/process/page_68_旅行商务_40550_icon_39.png",
+    "caption": " a person with a  green line in the center of the chest area",
+    "questions": {
+      "question1": {
+        "question": "What is the shape of the green element in the center of the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Triangle",
+          "C": "Rectangle",
+          "D": "Diamond"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "This icon could most likely represent which of the following concepts?",
+        "option": {
+          "A": "A user profile with an online status indicator",
+          "B": "A medical symbol for heart health",
+          "C": "A location marker on a map",
+          "D": "A battery level indicator"
+        },
+        "answer": "A"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a green line rather than another color or shape for the central element?",
+        "option": {
+          "A": "Green universally signifies danger or warning",
+          "B": "A line is more complex and visually engaging than other shapes",
+          "C": "Green often symbolizes life, activity, or online presence, enhancing the icon's communicative power",
+          "D": "The choice was arbitrary and has no specific significance"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 26,
+    "image_path": "../../../data/easy/process/page_314_Remix_Icon_v2.5.0_23534_icon_1976.png",
+    "caption": "three horizontal lines: a long line at the top, a shorter line in the middle, and another long line at the bottom",
+    "questions": {
+      "question1": {
+        "question": "Which statement accurately describes the spatial arrangement of the lines in the icon?",
+        "option": {
+          "A": "The lines are arranged vertically",
+          "B": "The lines are evenly spaced and equal in length",
+          "C": "The lines are arranged horizontally with the middle line being shorter",
+          "D": "The lines form a triangular shape."
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What is the common name for this icon and where is it typically used?",
+        "option": {
+          "A": "It's called a 'play' button and is used in media players",
+          "B": "It's known as a 'menu' or 'hamburger' icon and is commonly used in mobile apps and websites",
+          "C": "It's referred to as a 'back' arrow and is used for navigation",
+          "D": "It's named a 'forward' arrow and is used for progressing through slides."
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Considering the design choices, why might the middle line be shorter than the other two?",
+        "option": {
+          "A": "To make the icon more aesthetically pleasing by breaking the monotony",
+          "B": "To indicate that the middle line is less important than the others",
+          "C": "To create a visual cue that distinguishes it from similar icons like the equal sign",
+          "D": "To save space and make the icon smaller overall."
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 28,
+    "image_path": "../../../data/easy/process/page_120_明德-免疫线图标库_41623_icon_43.png",
+    "caption": "three small squares",
+    "questions": {
+      "question1": {
+        "question": "Based on the description, which of the following best describes the spatial arrangement of the icon?",
+        "option": {
+          "A": "Three squares arranged in a horizontal line",
+          "B": "Three squares stacked vertically",
+          "C": "Three squares forming a triangle",
+          "D": "Three overlapping squares."
+        },
+        "answer": "A"
+      },
+      "question2": {
+        "question": "If this icon were used in a digital interface, what could it most likely represent?",
+        "option": {
+          "A": "A settings menu",
+          "B": "An expand/collapse toggle",
+          "C": "A notification badge",
+          "D": "A file download button."
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Considering the simplicity of the design, what is a potential advantage of using three small squares as an icon?",
+        "option": {
+          "A": "It ensures high visibility at large sizes only",
+          "B": "It simplifies complex information into a single square",
+          "C": "It provides clear scalability and versatility across different devices",
+          "D": "It creates a visually cluttered appearance that draws attention."
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 29,
+    "image_path": "../../../data/easy/process/page_55_小假哥_常用_icon057_42653_icon_30.png",
+    "caption": "a money bag with a yuan sign on it",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the outline of the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Square",
+          "C": "Irregular rounded shape",
+          "D": "Triangle"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To represent a bank account balance in US dollars",
+          "B": "To indicate a financial transaction involving Chinese currency",
+          "C": "To symbolize a generic shopping cart",
+          "D": "To denote a stock market index"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include both the yuan sign and the money bag in the same icon?",
+        "option": {
+          "A": "To confuse users about the type of currency",
+          "B": "To emphasize the concept of wealth storage specifically related to Chinese currency",
+          "C": "To make the icon more visually appealing without any specific meaning",
+          "D": "To represent a universal currency symbol"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 30,
+    "image_path": "../../../data/easy/process/page_386_填充图标_19922_icon_16.png",
+    "caption": "a house with four square windows and a rectangular door",
+    "questions": {
+      "question1": {
+        "question": "What is the shape of the door depicted in the icon?",
+        "option": {
+          "A": "Square",
+          "B": "Circular",
+          "C": "Rectangular",
+          "D": "Triangular"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "Which of the following places is this icon most likely to represent?",
+        "option": {
+          "A": "A commercial building",
+          "B": "A residential home",
+          "C": "An industrial facility",
+          "D": "A public institution"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include four square windows in the icon?",
+        "option": {
+          "A": "To indicate the size of the house",
+          "B": "To suggest a modern architectural style",
+          "C": "To imply that the house has multiple rooms",
+          "D": "To create a balanced and symmetrical appearance"
+        },
+        "answer": "D"
+      }
+    }
+  },
+  {
+    "index": 31,
+    "image_path": "../../../data/easy/process/page_8_NutUI-icon_50281_icon_42.png",
+    "caption": "A black shopping cart icon with an upward arrow inside the basket and two wheels at the bottom",
+    "questions": {
+      "question1": {
+        "question": "What visual feature distinguishes this shopping cart icon from a standard shopping cart icon?",
+        "option": {
+          "A": "The presence of an upward arrow inside the basket",
+          "B": "The color of the cart",
+          "C": "The size of the wheels",
+          "D": "The shape of the handle."
+        },
+        "answer": "A"
+      },
+      "question2": {
+        "question": "In which context is this icon most likely to be used?",
+        "option": {
+          "A": "To indicate a physical store location",
+          "B": "To represent an online checkout process",
+          "C": "As a symbol for a recycling bin",
+          "D": "To signify a delivery service."
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include an upward arrow within the shopping cart?",
+        "option": {
+          "A": "To suggest that items are being removed from the cart",
+          "B": "To imply an increase in sales or profits",
+          "C": "To indicate the direction in which the cart moves",
+          "D": "To visually communicate the action of adding items to the cart."
+        },
+        "answer": "D"
+      }
+    }
+  },
+  {
+    "index": 32,
+    "image_path": "../../../data/easy/process/page_133_常用基础icon图标_39748_icon_104.png",
+    "caption": "a small shop",
+    "questions": {
+      "question1": {
+        "question": "If the icon depicted a small shop, which of the following visual elements would you most likely expect to see?",
+        "option": {
+          "A": "A large skyscraper",
+          "B": "A single storefront with a sign",
+          "C": "A busy street scene",
+          "D": "An industrial factory building."
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What type of location is typically associated with a small shop icon?",
+        "option": {
+          "A": "A rural countryside",
+          "B": "A bustling city center",
+          "C": "A suburban neighborhood",
+          "D": "A remote desert area."
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Considering the purpose of a small shop icon, why might a designer choose to include a welcoming entrance in the design?",
+        "option": {
+          "A": "To indicate the shop is closed",
+          "B": "To suggest the shop sells outdoor equipment",
+          "C": "To convey an inviting atmosphere for potential customers",
+          "D": "To show the shop is only accessible by appointment."
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 33,
+    "image_path": "../../../data/easy/process/page_304_003_12480_icon_15.png",
+    "caption": "a blue bar chart",
+    "questions": {
+      "question1": {
+        "question": "How many bars are present in the blue bar chart?",
+        "option": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "5"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What type of data visualization does this icon represent?",
+        "option": {
+          "A": "Line graph",
+          "B": "Pie chart",
+          "C": "Bar chart",
+          "D": "Scatter plot"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might a designer choose to use a blue color for the bars in this chart?",
+        "option": {
+          "A": "Blue is universally recognized as the color for charts",
+          "B": "Blue is often associated with trust and stability, which can enhance the perceived reliability of the data",
+          "C": "Blue is the only color that can be used in bar charts",
+          "D": "Blue makes the chart more difficult to read."
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 34,
+    "image_path": "../../../data/easy/process/page_38_元颗粒6.12_图标上传_45218_icon_30.png",
+    "caption": "A dark gray or black icon showing two rows of elements, each with a square containing a white center on the left and two horizontal lines on the right",
+    "questions": {
+      "question1": {
+        "question": "How many squares with a white center are present in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A music playlist",
+          "B": "A file directory structure",
+          "C": "A calendar view",
+          "D": "A settings menu"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the squares with white centers on the left side of the horizontal lines?",
+        "option": {
+          "A": "To indicate that the squares are buttons",
+          "B": "To visually separate different sections of content",
+          "C": "To suggest a hierarchical relationship between the squares and the lines",
+          "D": "To make the icon more aesthetically pleasing"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 35,
+    "image_path": "../../../data/easy/process/page_75_彩色半透明_平面_002_38979_icon_11.png",
+    "caption": "two green squares ",
+    "questions": {
+      "question1": {
+        "question": "How are the two green squares arranged in relation to each other?",
+        "option": {
+          "A": "They overlap partially",
+          "B": "They are stacked vertically",
+          "C": "They are side by side with a gap between them",
+          "D": "One square is inside the other."
+        },
+        "answer": "A"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent in a digital context?",
+        "option": {
+          "A": "A file or document",
+          "B": "A calendar event",
+          "C": "A folder or directory",
+          "D": "A settings menu."
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to partially overlap the squares rather than placing them side by side?",
+        "option": {
+          "A": "To save space in the interface",
+          "B": "To suggest a hierarchical relationship between the squares",
+          "C": "To create a more visually dynamic and engaging icon",
+          "D": "To indicate that the squares are separate but related entities."
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 37,
+    "image_path": "../../../data/easy/process/page_13_天气-面性_48688_icon_26.png",
+    "caption": "star of david",
+    "questions": {
+      "question1": {
+        "question": "How many points does the Star of David in the icon have?",
+        "option": {
+          "A": "4",
+          "B": "5",
+          "C": "6",
+          "D": "8"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "Which of the following is a common use-case for the Star of David icon?",
+        "option": {
+          "A": "Representing a navigation menu in an app",
+          "B": "Symbolizing Jewish identity and heritage",
+          "C": "Indicating a warning or caution",
+          "D": "Marking a location on a map"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a solid blue color for the Star of David instead of a more complex pattern or gradient?",
+        "option": {
+          "A": "To make the icon more difficult to recognize",
+          "B": "To enhance the icon's visibility and ensure it stands out clearly",
+          "C": "To align with a specific brand's color scheme that prefers gradients",
+          "D": "To symbolize a particular historical event associated with blue"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 39,
+    "image_path": "../../../data/easy/process/page_276_通用_25746_icon_171.png",
+    "caption": "a black hexagonal icon with a white circle",
+    "questions": {
+      "question1": {
+        "question": "What shape is the outer boundary of the icon?",
+        "option": {
+          "A": "Square",
+          "B": "Circle",
+          "C": "Hexagon",
+          "D": "Triangle"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon likely represent in a digital interface?",
+        "option": {
+          "A": "A button for settings",
+          "B": "An indicator for battery life",
+          "C": "A symbol for a stop sign",
+          "D": "An icon for a new message notification"
+        },
+        "answer": "A"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a hexagon over other shapes for this icon?",
+        "option": {
+          "A": "Hexagons are easier to draw than circles",
+          "B": "The hexagon provides a modern and distinct look that stands out from typical circular icons",
+          "C": "Hexagons are universally recognized as symbols for settings",
+          "D": "The hexagon shape is mandated by international design standards for icons"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 40,
+    "image_path": "../../../data/easy/process/page_394_售电云应用图标_6733_icon_19.png",
+    "caption": "a blue icon with a lightning bolt on it",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are present within the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A battery charging status",
+          "B": "An alert for severe weather",
+          "C": "A symbol for high voltage",
+          "D": "A notification for fast data transfer"
+        },
+        "answer": "A"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the lightning bolt inside an irregular shape rather than a standard circle or square?",
+        "option": {
+          "A": "To make the icon more visually appealing and unique",
+          "B": "To indicate that the charging process is unconventional or innovative",
+          "C": "To save space by using a smaller bounding shape",
+          "D": "To suggest that the energy flow is unpredictable or variable"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 42,
+    "image_path": "../../../data/easy/process/page_43_全球旅游图标icon_44394_icon_11.png",
+    "caption": "a pair of goggles ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes make up the main body of the goggles in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To represent a fashion accessory",
+          "B": "To indicate safety equipment for construction sites",
+          "C": "To symbolize swimming or diving gear",
+          "D": "As an icon for a virtual reality headset"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a single strap rather than two separate straps in the icon's design?",
+        "option": {
+          "A": "To simplify the design and enhance recognition at a glance",
+          "B": "To accurately depict all types of goggles",
+          "C": "To suggest that the goggles are for children",
+          "D": "To imply that the goggles are for a specific brand"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 43,
+    "image_path": "../../../data/easy/process/page_32_酷趣创易_电商_icon031_46250_icon_2.png",
+    "caption": "an icon of a  building with a purple roof",
+    "questions": {
+      "question1": {
+        "question": "What shape characterizes the top part of the icon?",
+        "option": {
+          "A": "Triangle",
+          "B": "Rectangle",
+          "C": "Wavy line",
+          "D": "Circle"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "Based on the icon's design, which of the following is it most likely to represent?",
+        "option": {
+          "A": "A mountain range",
+          "B": "A house or building",
+          "C": "A water droplet",
+          "D": "A cloud"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a wavy line for the roof instead of a traditional triangular shape?",
+        "option": {
+          "A": "To make the icon more abstract and universally recognizable",
+          "B": "To indicate that the building is modern",
+          "C": "To suggest that the building is located near water",
+          "D": "To save space in the design"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 44,
+    "image_path": "../../../data/easy/process/page_304_闪电在线_12527_icon_10.png",
+    "caption": "two overlapping squares with arrows pointing in opposite diagonal directions",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are present in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent in a software application?",
+        "option": {
+          "A": "File save",
+          "B": "Undo/Redo actions",
+          "C": "Print preview",
+          "D": "Data synchronization"
+        },
+        "answer": "D"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to use overlapping squares with diagonal arrows instead of simple circular arrows for representing data synchronization?",
+        "option": {
+          "A": "To make the icon more visually appealing",
+          "B": "To imply a more complex, bidirectional process",
+          "C": "To save space within the interface",
+          "D": "To align with a specific brand's color scheme"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 45,
+    "image_path": "../../../data/easy/process/page_332_Framework7_22653_icon_640.png",
+    "caption": "a black circle with a downward arrow on the left and three horizontal lines on the right ",
+    "questions": {
+      "question1": {
+        "question": "What shape is the main element of the icon?",
+        "option": {
+          "A": "Square",
+          "B": "Circle",
+          "C": "Triangle",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon typically represent?",
+        "option": {
+          "A": "Upload",
+          "B": "Download",
+          "C": "Settings",
+          "D": "Menu"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a circle with an arrow pointing down for this icon?",
+        "option": {
+          "A": "To indicate upward movement",
+          "B": "To suggest a cyclical process",
+          "C": "To represent downloading content",
+          "D": "To signify a warning"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 46,
+    "image_path": "../../../data/easy/process/page_39_76_44867_icon_62.png",
+    "caption": "an icon of a document with a green play button in the bottom right corner",
+    "questions": {
+      "question1": {
+        "question": "What shape is the play button within the icon?",
+        "option": {
+          "A": "Square",
+          "B": "Circle",
+          "C": "Triangle",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Which of the following best describes the likely function of this icon?",
+        "option": {
+          "A": "To indicate a file that can be played or executed",
+          "B": "To represent a document that needs editing",
+          "C": "To signify a file that is currently being downloaded",
+          "D": "To show a document that is ready for printing"
+        },
+        "answer": "A"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the play button in the bottom right corner of the document icon?",
+        "option": {
+          "A": "To follow a traditional layout where action buttons are often placed",
+          "B": "To make the icon more visually appealing by balancing the design",
+          "C": "To indicate that the document is incomplete and requires further action",
+          "D": "To suggest that the document is only accessible after completing a series of steps"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 47,
+    "image_path": "../../../data/easy/process/page_99_双色圆角图标_34224_icon_72.png",
+    "caption": "a circular icon composed of a black C-shaped main section and a gray quarter-circle segment in the upper right, creating an almost complete circle with a gap",
+    "questions": {
+      "question1": {
+        "question": "How many distinct sections make up the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A full moon",
+          "B": "A loading symbol",
+          "C": "A pie chart",
+          "D": "A volume control"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to leave a small gap between the two sections instead of forming a complete circle?",
+        "option": {
+          "A": "To indicate incompleteness or ongoing process",
+          "B": "To save space",
+          "C": "To make the icon more aesthetically pleasing",
+          "D": "To differentiate it from other circular icons"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 48,
+    "image_path": "../../../data/easy/process/page_171_天气_22770_icon_23.png",
+    "caption": "a black thermometer icon",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the body of the lock icon?",
+        "option": {
+          "A": "Rectangle",
+          "B": "Circle",
+          "C": "Triangle",
+          "D": "Square"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this lock icon most likely appear?",
+        "option": {
+          "A": "Weather forecast",
+          "B": "Security software",
+          "C": "Cooking app",
+          "D": "Music player"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a simple, solid black color for the lock icon?",
+        "option": {
+          "A": "To make it look like a thermometer",
+          "B": "To ensure high visibility and universal recognition",
+          "C": "To indicate that the lock is unlocked",
+          "D": "To match the color of a specific brand logo"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 49,
+    "image_path": "../../../data/easy/process/page_212_线性图标2_31518_icon_12.png",
+    "caption": "a document icon ",
+    "questions": {
+      "question1": {
+        "question": "How many horizontal lines are present within the document icon?",
+        "option": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "4"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context would this document icon most likely appear?",
+        "option": {
+          "A": "As a symbol for a music file",
+          "B": "To represent a folder containing images",
+          "C": "To indicate a text document or file",
+          "D": "As an icon for a video file"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include horizontal lines within the document icon?",
+        "option": {
+          "A": "To suggest that the document contains text",
+          "B": "To make the icon more colorful",
+          "C": "To indicate that the document is encrypted",
+          "D": "To show that the document is empty"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 50,
+    "image_path": "../../../data/easy/process/page_103_华为云服务图标_43259_icon_264.png",
+    "caption": "a image icon with a magnifying glass in the bottom right corner",
+    "questions": {
+      "question1": {
+        "question": "According to the caption, where is the magnifying glass located within the icon?",
+        "option": {
+          "A": "Top left corner",
+          "B": "Center of the icon",
+          "C": "Bottom right corner",
+          "D": "Top right corner"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What function does a magnifying glass icon typically represent in digital interfaces?",
+        "option": {
+          "A": "Saving data",
+          "B": "Searching or zooming in",
+          "C": "Deleting items",
+          "D": "Sending messages"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might a designer choose to place a magnifying glass icon in the bottom right corner rather than the top right corner of an interface?",
+        "option": {
+          "A": "To follow traditional design conventions",
+          "B": "To make it less noticeable and reduce distractions",
+          "C": "To align with user expectations for search functionality",
+          "D": "To enhance accessibility for users who navigate primarily with their left hand"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 51,
+    "image_path": "../../../data/easy/process/page_202_特步_20790_icon_12.png",
+    "caption": "a pair of flip flops ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct colors are used in the depiction of the flip flop?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be found?",
+        "option": {
+          "A": "A winter clothing store",
+          "B": "A beach resort advertisement",
+          "C": "An office supply catalog",
+          "D": "A formal wear boutique"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to represent the flip flop with a simple, flat design rather than a detailed, realistic one?",
+        "option": {
+          "A": "To make it more difficult to recognize",
+          "B": "To emphasize the texture of the material",
+          "C": "To enhance clarity and ensure quick recognition at small sizes",
+          "D": "To focus on the brand logo placement"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 52,
+    "image_path": "../../../data/easy/process/page_93_美妆_35254_icon_0.png",
+    "caption": "a makeup brush withwith a dark gray bristle head and a light pink handle",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape of the bristle head in the makeup brush icon?",
+        "option": {
+          "A": "Circular",
+          "B": "Rectangular",
+          "C": "Triangular",
+          "D": "Oval"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "A kitchen utensil store",
+          "B": "A beauty and cosmetics website",
+          "C": "A hardware store",
+          "D": "A medical supply catalog"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a dark gray color for the bristle head and a light pink color for the handle?",
+        "option": {
+          "A": "To make the icon more difficult to see against a white background",
+          "B": "To create a contrast that highlights the functional parts of the brush",
+          "C": "To indicate that the brush is only suitable for dark makeup",
+          "D": "To suggest that the brush is made of metal and plastic materials"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 53,
+    "image_path": "../../../data/easy/process/page_264_基础图标_26666_icon_139.png",
+    "caption": "two person side by side",
+    "questions": {
+      "question1": {
+        "question": "Based on the caption \"two person side by side,\" which of the following best describes the spatial arrangement of the figures?",
+        "option": {
+          "A": "One person is standing in front of the other",
+          "B": "The two people are overlapping",
+          "C": "The two people are positioned next to each other horizontally",
+          "D": "The two people are stacked vertically."
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What scenario or context is most likely represented by an icon depicting \"two person side by side\"?",
+        "option": {
+          "A": "A solo traveler's journey",
+          "B": "A competitive sports event",
+          "C": "A partnership or collaboration between two individuals",
+          "D": "An individual's personal reflection."
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Considering the design choice of showing \"two person side by side,\" what could be the primary purpose of this icon in terms of user experience?",
+        "option": {
+          "A": "To emphasize individual achievement",
+          "B": "To highlight the concept of teamwork or companionship",
+          "C": "To suggest a hierarchical relationship",
+          "D": "To indicate a process of selection or elimination."
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 54,
+    "image_path": "../../../data/easy/process/page_33_小假哥_线面_icon148_46140_icon_12.png",
+    "caption": "a calendar with a check mark on it",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the background of the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Triangle",
+          "C": "Square",
+          "D": "Pentagon"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "Which of the following scenarios is this icon most likely to represent?",
+        "option": {
+          "A": "A completed task on a to-do list",
+          "B": "A financial transaction confirmation",
+          "C": "A weather forecast update",
+          "D": "A file download completion"
+        },
+        "answer": "A"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a bright yellow element in the lower portion of the icon?",
+        "option": {
+          "A": "To indicate an error or warning",
+          "B": "To highlight the importance of the checkmark and draw attention to it",
+          "C": "To signify a specific date or time",
+          "D": "To differentiate between different types of calendars"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 55,
+    "image_path": "../../../data/easy/process/page_52_小假哥_扁平_icon102_42798_icon_63.png",
+    "caption": "a red circle with an arrow pointing at upper right corner",
+    "questions": {
+      "question1": {
+        "question": "What shape is the arrow within the red circle?",
+        "option": {
+          "A": "Square",
+          "B": "Triangle",
+          "C": "Circle",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "This icon is most likely used to represent which of the following actions?",
+        "option": {
+          "A": "Rewind",
+          "B": "Forward",
+          "C": "Pause",
+          "D": "Stop"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a yellow arrow against a red background?",
+        "option": {
+          "A": "To make the icon less noticeable",
+          "B": "To create a high-contrast visual that draws attention",
+          "C": "To align with a specific brand color scheme",
+          "D": "To indicate danger or warning"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 56,
+    "image_path": "../../../data/easy/process/page_721_rexhangIconfont_328_icon_578.png",
+    "caption": "a smiley face in a circle",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes make up the smiley face within the circle?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To indicate a warning",
+          "B": "As a symbol for happiness or positive feedback",
+          "C": "To represent a location on a map",
+          "D": "To signify an error or problem"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the smiley face inside a circle rather than another shape?",
+        "option": {
+          "A": "Circles are easier to draw",
+          "B": "A circle suggests completeness and unity, enhancing the positive message of the smiley face",
+          "C": "It was a random choice with no specific purpose",
+          "D": "Squares and rectangles are too complex for simple icons"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 57,
+    "image_path": "../../../data/easy/process/page_291_商业和在线图标_24724_icon_218.png",
+    "caption": "a U element above a horizontal line",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape located above the horizontal line in the icon?",
+        "option": {
+          "A": "A triangle",
+          "B": "A circle",
+          "C": "A U element",
+          "D": "A square"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context is this icon most likely to be used?",
+        "option": {
+          "A": "To indicate a download button",
+          "B": "As a symbol for an underlined text feature",
+          "C": "To represent a user profile",
+          "D": "To signify a location marker"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "How does the placement of the U element above the horizontal line contribute to the icon's effectiveness in conveying its intended meaning?",
+        "option": {
+          "A": "It creates a visual metaphor for lifting or elevation",
+          "B": "It mimics the appearance of underlined text, enhancing recognition",
+          "C": "It forms a contrasting color scheme that draws attention",
+          "D": "It suggests a directional flow from top to bottom"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 58,
+    "image_path": "../../../data/easy/process/page_143_Awesome-solid_38545_icon_949.png",
+    "caption": "a simplified human figure crossed out by a diagonal line",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape used to represent the human figure in the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Square",
+          "C": "Rectangle",
+          "D": "Stick figure"
+        },
+        "answer": "D"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be found?",
+        "option": {
+          "A": "A medical facility",
+          "B": "A no entry sign",
+          "C": "A restroom",
+          "D": "A school"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a diagonal line to cross out the human figure instead of a horizontal or vertical line?",
+        "option": {
+          "A": "To save space",
+          "B": "To make the icon more visually appealing",
+          "C": "To universally signify prohibition or negation",
+          "D": "To indicate movement"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 59,
+    "image_path": "../../../data/easy/process/page_204_全棉时代_20750_icon_6.png",
+    "caption": "a underwear ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are present in the icon besides the main underwear shape?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely appear?",
+        "option": {
+          "A": "A sports equipment store",
+          "B": "A medical facility",
+          "C": "An online clothing retailer",
+          "D": "A travel agency"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include small plus signs and a circle around the underwear icon?",
+        "option": {
+          "A": "To indicate that the underwear is plus-sized",
+          "B": "To suggest additional features or benefits associated with the product",
+          "C": "To make the icon more visually appealing without any specific meaning",
+          "D": "To represent the brand's logo"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 60,
+    "image_path": "../../../data/easy/process/page_36_008-美食_45398_icon_18.png",
+    "caption": "a slice of pizza ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct circular shapes are present within the pizza slice?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "A weather app",
+          "B": "A food delivery service",
+          "C": "A music streaming platform",
+          "D": "A travel booking site"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include only two pepperoni slices on the pizza instead of more?",
+        "option": {
+          "A": "To make the icon more complex and detailed",
+          "B": "To ensure the icon remains simple and easily recognizable at small sizes",
+          "C": "Because real pizzas only have two pepperoni slices",
+          "D": "To save on digital storage space"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 61,
+    "image_path": "../../../data/easy/process/page_228_Mobile_Apps-Flat_Multicolor_18191_icon_10.png",
+    "caption": "a blue envelope ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct triangular shapes are formed by the overlapping sections of the envelope's flap?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In digital interfaces, this icon is most commonly associated with which of the following functions?",
+        "option": {
+          "A": "Sending messages",
+          "B": "Printing documents",
+          "C": "Saving files",
+          "D": "Deleting items"
+        },
+        "answer": "A"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a solid blue color for the envelope instead of a more detailed or realistic depiction?",
+        "option": {
+          "A": "To make it easier to print on physical paper",
+          "B": "To enhance the realism of the icon",
+          "C": "To simplify recognition and maintain consistency across various interface sizes",
+          "D": "To align with traditional postal service branding"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 62,
+    "image_path": "../../../data/easy/process/page_307_双色线性ICON_12087_icon_4.png",
+    "caption": "a clipboard icon ",
+    "questions": {
+      "question1": {
+        "question": "How many horizontal lines are present within the clipboard's paper area?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context would this clipboard icon most likely appear?",
+        "option": {
+          "A": "A music streaming app",
+          "B": "A document management system",
+          "C": "A weather forecasting website",
+          "D": "A social media platform"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include horizontal lines on the paper portion of the clipboard icon?",
+        "option": {
+          "A": "To indicate that the clipboard is empty",
+          "B": "To suggest that the clipboard contains text or data entries",
+          "C": "To make the icon more colorful",
+          "D": "To represent a barcode for scanning purposes"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 63,
+    "image_path": "../../../data/easy/process/page_118_千络文旅小程序_41954_icon_68.png",
+    "caption": "a classical building with a triangular pediment, four columns, and a horizontal base",
+    "questions": {
+      "question1": {
+        "question": "How many vertical lines are present in the icon representing the columns?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "Which type of institution is this icon most likely to represent?",
+        "option": {
+          "A": "A modern office building",
+          "B": "A government or financial institution",
+          "C": "A residential home",
+          "D": "An educational facility"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a triangular pediment and columns for this icon?",
+        "option": {
+          "A": "To suggest a casual and informal setting",
+          "B": "To evoke a sense of tradition, stability, and authority",
+          "C": "To mimic contemporary architectural styles",
+          "D": "To indicate a private, personal space"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 64,
+    "image_path": "../../../data/easy/process/page_64_明德-线性双色图标_41643_icon_159.png",
+    "caption": "a webcam icon with a black outer ring and blue inner circle representing the lens,",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape used in the design of this webcam icon?",
+        "option": {
+          "A": "Triangle",
+          "B": "Circle",
+          "C": "Square",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would you most likely encounter this icon?",
+        "option": {
+          "A": "A music streaming app",
+          "B": "A video conferencing platform",
+          "C": "A document editing software",
+          "D": "A weather forecasting website"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a blue inner circle to represent the lens of the webcam?",
+        "option": {
+          "A": "Blue is universally recognized as the color for webcams",
+          "B": "Blue conveys a sense of trust and reliability, enhancing the user's confidence in the device",
+          "C": "Blue is easier to see against the black background than other colors",
+          "D": "Blue is the cheapest color to produce in digital graphics"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 65,
+    "image_path": "../../../data/easy/process/page_36_多色icon-线性_45427_icon_0.png",
+    "caption": "a square icon with a dark gray or black frame and a bright blue diagonal line running from the upper left to lower right inside it",
+    "questions": {
+      "question1": {
+        "question": "What is the orientation of the bright blue diagonal line within the square icon?",
+        "option": {
+          "A": "From the upper right to the lower left",
+          "B": "From the upper left to the lower right",
+          "C": "Horizontal",
+          "D": "Vertical"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "This icon is most likely used to represent which of the following concepts?",
+        "option": {
+          "A": "A warning or caution",
+          "B": "Progress or completion",
+          "C": "A pause or stop",
+          "D": "A reset or refresh"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a bright blue color for the diagonal line instead of a more neutral tone like gray?",
+        "option": {
+          "A": "To make the icon less noticeable",
+          "B": "To symbolize coldness or sadness",
+          "C": "To enhance visibility and draw attention to the progress or completion concept",
+          "D": "To indicate an error or failure"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 66,
+    "image_path": "../../../data/easy/process/page_667_Essential_Set_1913_icon_237.png",
+    "caption": "a circle with a small dot inside, connected to a vertical line below",
+    "questions": {
+      "question1": {
+        "question": "What shape is the main element of the icon?",
+        "option": {
+          "A": "Square",
+          "B": "Circle",
+          "C": "Triangle",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon typically represent?",
+        "option": {
+          "A": "Battery status",
+          "B": "Volume control",
+          "C": "Location pin",
+          "D": "Notification bell"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a circle with a dot and a line for this icon?",
+        "option": {
+          "A": "To symbolize a digital clock",
+          "B": "To indicate a network connection",
+          "C": "To represent a location marker with precision",
+          "D": "To show a progress bar"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 67,
+    "image_path": "../../../data/easy/process/page_247_阿里云UI图标库_Supplemental_Icons_27723_icon_199.png",
+    "caption": " a  telephone handset crossed out by a diagonal line",
+    "questions": {
+      "question1": {
+        "question": "What is the orientation of the diagonal line crossing the telephone handset in the icon?",
+        "option": {
+          "A": "Horizontal",
+          "B": "Vertical",
+          "C": "Diagonal from top left to bottom right",
+          "D": "Diagonal from top right to bottom left"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "An active phone call",
+          "B": "A blocked or disabled phone feature",
+          "C": "A new message notification",
+          "D": "A phone with full signal strength"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might a designer choose to use a diagonal line across a telephone handset icon instead of simply removing the icon entirely?",
+        "option": {
+          "A": "To make the icon more visually appealing",
+          "B": "To indicate that the phone feature is temporarily unavailable rather than permanently removed",
+          "C": "To comply with international design standards",
+          "D": "To save space in the user interface"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 68,
+    "image_path": "../../../data/easy/process/page_391_CB_19664_icon_406.png",
+    "caption": "a black radiation hazard symbol featuring three triangular sectors arranged around a central circle",
+    "questions": {
+      "question1": {
+        "question": "How many triangular sectors are present in the radiation hazard symbol?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this symbol typically represent?",
+        "option": {
+          "A": "Electrical hazard",
+          "B": "Radiation hazard",
+          "C": "Chemical hazard",
+          "D": "Physical hazard"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a circular center surrounded by triangular sectors for this symbol?",
+        "option": {
+          "A": "To make it look more aesthetically pleasing",
+          "B": "To indicate the spread of radiation in all directions",
+          "C": "To mimic the appearance of a flower",
+          "D": "To create a sense of movement"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 69,
+    "image_path": "../../../data/easy/process/page_7_bold_icon_50342_icon_574.png",
+    "caption": "a black document icon with a folded corner at the top and two short horizontal lines inside,",
+    "questions": {
+      "question1": {
+        "question": "How many distinct visual elements are present within the document icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent in a digital interface?",
+        "option": {
+          "A": "A video file",
+          "B": "An audio file",
+          "C": "A text document",
+          "D": "An image file"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a folded corner in the document icon?",
+        "option": {
+          "A": "To indicate that the document is a physical piece of paper",
+          "B": "To signify that the document is new or unread",
+          "C": "To make the icon more visually appealing without any specific meaning",
+          "D": "To suggest that the document can be edited or modified"
+        },
+        "answer": "D"
+      }
+    }
+  },
+  {
+    "index": 70,
+    "image_path": "../../../data/easy/process/page_219_remixicon_2.4.1_30328_icon_569.png",
+    "caption": "a black battery icon with a white lightning bolt symbol inside",
+    "questions": {
+      "question1": {
+        "question": "What shape does the white lightning bolt inside the black battery icon resemble?",
+        "option": {
+          "A": "A straight line",
+          "B": "A zigzag pattern",
+          "C": "A curved wave",
+          "D": "A circular loop"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To indicate a low battery level",
+          "B": "To signify that a device is charging",
+          "C": "To show a full battery level",
+          "D": "To represent a battery error"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place a lightning bolt inside the battery shape?",
+        "option": {
+          "A": "To suggest that the battery is dangerous",
+          "B": "To imply that the battery provides instant power",
+          "C": "To indicate that the battery is environmentally friendly",
+          "D": "To show that the battery is outdated"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 71,
+    "image_path": "../../../data/easy/process/page_679_一组常见线性ICON_1599_icon_78.png",
+    "caption": "a black outline icon of a heart containing an electrocardiogram or heartbeat line pattern",
+    "questions": {
+      "question1": {
+        "question": "What shape does the icon primarily consist of?",
+        "option": {
+          "A": "Circle",
+          "B": "Triangle",
+          "C": "Heart",
+          "D": "Square"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "Weather forecasting",
+          "B": "Financial market analysis",
+          "C": "Healthcare and medical applications",
+          "D": "Social media platforms"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include an ECG line within a heart shape?",
+        "option": {
+          "A": "To symbolize emotional well-being",
+          "B": "To represent the physical health and functionality of the heart",
+          "C": "To indicate a love for technology",
+          "D": "To signify a rhythmic pattern unrelated to health"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 72,
+    "image_path": "../../../data/easy/process/page_303_用户_23993_icon_83.png",
+    "caption": "a black icon of a simplified person or user profile with a checkmark beside it,",
+    "questions": {
+      "question1": {
+        "question": "What are the primary visual components of the icon?",
+        "option": {
+          "A": "A circle and a triangle",
+          "B": "A simplified person figure and a checkmark",
+          "C": "Two overlapping squares",
+          "D": "A star and a line"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context is this icon most likely to be used?",
+        "option": {
+          "A": "To indicate a completed task in a to-do list",
+          "B": "As a symbol for a user's verified status on a social platform",
+          "C": "To represent a location on a map",
+          "D": "As an indicator for battery life"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the checkmark beside the person figure rather than inside it?",
+        "option": {
+          "A": "To save space within the icon design",
+          "B": "To visually separate the concept of verification from the user identity",
+          "C": "Because placing it inside would make the icon too complex",
+          "D": "To align with traditional design norms for user icons"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 73,
+    "image_path": "../../../data/easy/process/page_83_fontawsome6.4_44746_icon_351.png",
+    "caption": "a black circular icon containing two white vertical parallel bars,n",
+    "questions": {
+      "question1": {
+        "question": "According to the caption, what is the shape of the icon's background?",
+        "option": {
+          "A": "Square",
+          "B": "Circle",
+          "C": "Triangle",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Based on the description, which of the following could this icon represent?",
+        "option": {
+          "A": "A music pause button",
+          "B": "A battery level indicator",
+          "C": "A volume control slider",
+          "D": "A settings menu"
+        },
+        "answer": "A"
+      },
+      "question3": {
+        "question": "Considering the described design, why might the designer have chosen two vertical parallel bars within a circle?",
+        "option": {
+          "A": "To symbolize a universal stop sign",
+          "B": "To mimic the appearance of a classic pause button for media controls",
+          "C": "To indicate a loading process",
+          "D": "To represent a binary code system"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 74,
+    "image_path": "../../../data/easy/process/page_685_闲鱼拍卖图标库_1434_icon_7.png",
+    "caption": "a black outline icon of a message box with a checkmark inside and a small pointer at the bottom,",
+    "questions": {
+      "question1": {
+        "question": "What shape is the main body of the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Square",
+          "C": "Rectangle",
+          "D": "Triangle"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon typically represent in user interfaces?",
+        "option": {
+          "A": "Error notification",
+          "B": "Warning alert",
+          "C": "Confirmation message",
+          "D": "Information prompt"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a checkmark within the message box?",
+        "option": {
+          "A": "To indicate an unchecked box",
+          "B": "To signify completion or approval",
+          "C": "To represent a loading state",
+          "D": "To denote a required field"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 75,
+    "image_path": "../../../data/easy/process/page_152_ic_常用_基础._014_37530_icon_88.png",
+    "caption": "a black outline icon of a house",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the roof of the house in the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Triangle",
+          "C": "Square",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context is this type of house icon most commonly used?",
+        "option": {
+          "A": "Weather forecasting",
+          "B": "Real estate listings",
+          "C": "School logos",
+          "D": "Restaurant menus"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a simple black outline for the house icon instead of a more detailed illustration?",
+        "option": {
+          "A": "To make it easier to print in color",
+          "B": "To ensure it remains clear and recognizable at small sizes",
+          "C": "To align with a specific cultural tradition",
+          "D": "To reduce the file size for digital storage"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 77,
+    "image_path": "../../../data/easy/process/page_78_互联网常用_38294_icon_5.png",
+    "caption": "a light bulb with a moon ",
+    "questions": {
+      "question1": {
+        "question": "How many rays are emanating from the light bulb in the icon?",
+        "option": {
+          "A": "6",
+          "B": "8",
+          "C": "10",
+          "D": "12"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What concept does this icon most likely represent?",
+        "option": {
+          "A": "Solar energy",
+          "B": "Nighttime creativity",
+          "C": "Lunar eclipse",
+          "D": "Daylight saving time"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to combine a light bulb with a crescent moon shape inside it?",
+        "option": {
+          "A": "To symbolize the idea of thinking outside the box during the day",
+          "B": "To suggest that ideas can come at any time, even at night",
+          "C": "To indicate that the light bulb is powered by lunar energy",
+          "D": "To create a playful juxtaposition with no specific meaning"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 78,
+    "image_path": "../../../data/easy/process/page_405_hairpiece模板_18871_icon_18.png",
+    "caption": "a black circular icon with a white upward-pointing arrow inside",
+    "questions": {
+      "question1": {
+        "question": "What shape is the main element surrounding the arrow in the icon?",
+        "option": {
+          "A": "Square",
+          "B": "Circle",
+          "C": "Triangle",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context is this icon most likely to be used?",
+        "option": {
+          "A": "Indicating download",
+          "B": "Signaling an error",
+          "C": "Representing upload",
+          "D": "Marking a location"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a black circle with a white arrow for this icon?",
+        "option": {
+          "A": "To make it visually appealing for children",
+          "B": "To ensure high contrast and visibility",
+          "C": "To align with a specific brand's color scheme",
+          "D": "To symbolize night-time operations"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 79,
+    "image_path": "../../../data/easy/process/page_42_面性双色图标_44434_icon_14.png",
+    "caption": "an orange flag on top of a rock",
+    "questions": {
+      "question1": {
+        "question": "What shape does the flag in the icon resemble?",
+        "option": {
+          "A": "Triangle",
+          "B": "Rectangle",
+          "C": "Square",
+          "D": "Circle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To indicate a financial transaction",
+          "B": "As a symbol for a location or destination",
+          "C": "To represent a musical note",
+          "D": "To signify a warning or alert"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen an orange color for both the flag and the rock?",
+        "option": {
+          "A": "To make the icon more visually appealing by using contrasting colors",
+          "B": "To symbolize caution or attention due to the common association of orange with warnings",
+          "C": "To create a sense of uniformity and simplicity in the design",
+          "D": "To align with a specific brand's color scheme"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 80,
+    "image_path": "../../../data/easy/process/page_72_工作台_39755_icon_36.png",
+    "caption": "an orange base, a yellow pole, and an orange flag, sitting on a light beige oval shadow",
+    "questions": {
+      "question1": {
+        "question": "What shape does the white element within the orange square resemble?",
+        "option": {
+          "A": "A pencil",
+          "B": "A ruler",
+          "C": "A paintbrush",
+          "D": "A pen"
+        },
+        "answer": "A"
+      },
+      "question2": {
+        "question": "Based on the icon's design, which application is this icon most likely associated with?",
+        "option": {
+          "A": "A music player",
+          "B": "A drawing or note-taking app",
+          "C": "A calendar",
+          "D": "A calculator"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen an orange square with a white pencil-like element for this icon?",
+        "option": {
+          "A": "To represent a construction tool",
+          "B": "To symbolize creativity and writing tools",
+          "C": "To indicate a financial transaction",
+          "D": "To signify a location marker"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 81,
+    "image_path": "../../../data/easy/process/page_93_基础线性萌萌图标--第三弹_44100_icon_2.png",
+    "caption": " a chat bubble with a short horizontal line ",
+    "questions": {
+      "question1": {
+        "question": "What shape does the icon primarily consist of?",
+        "option": {
+          "A": "Circle",
+          "B": "Triangle",
+          "C": "Chat bubble",
+          "D": "Square"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon typically represent in digital interfaces?",
+        "option": {
+          "A": "File download",
+          "B": "Chat or messaging",
+          "C": "Audio playback",
+          "D": "Video streaming"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a short horizontal line within the chat bubble?",
+        "option": {
+          "A": "To indicate an error in the message",
+          "B": "As a placeholder for text input",
+          "C": "To signify a loading status",
+          "D": "To separate different sections of the chat"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 82,
+    "image_path": "../../../data/easy/process/page_72_通用圆滚滚彩色图标_39764_icon_8.png",
+    "caption": "a green square with a crescent on it",
+    "questions": {
+      "question1": {
+        "question": "What is the orientation of the crescent shape within the green square?",
+        "option": {
+          "A": "The crescent points upwards",
+          "B": "The crescent points downwards",
+          "C": "The crescent points to the left",
+          "D": "The crescent points to the right."
+        },
+        "answer": "D"
+      },
+      "question2": {
+        "question": "Which of the following scenarios is this icon most likely associated with?",
+        "option": {
+          "A": "A weather app indicating moon phases",
+          "B": "A financial app symbolizing growth",
+          "C": "A sleep or rest application",
+          "D": "A navigation app showing directions."
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a green background with a white crescent for this icon?",
+        "option": {
+          "A": "To represent environmental themes like recycling",
+          "B": "To evoke feelings of calmness and restfulness",
+          "C": "To indicate a night-time setting with high contrast",
+          "D": "To symbolize a new beginning or freshness."
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 83,
+    "image_path": "../../../data/easy/process/服务logo_46449_icon_16.png",
+    "caption": "a diamond composed of abstract shapes",
+    "questions": {
+      "question1": {
+        "question": "How many distinct abstract shapes are used to form the diamond in the icon?",
+        "option": {
+          "A": "4",
+          "B": "5",
+          "C": "6",
+          "D": "7"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Given the abstract nature of the shapes, which of the following could this icon represent?",
+        "option": {
+          "A": "A technology company logo",
+          "B": "A symbol for a financial institution",
+          "C": "An emblem for an art gallery",
+          "D": "A sign for a sports team"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Considering the design choices, why might the designer have chosen to use abstract shapes within a diamond outline?",
+        "option": {
+          "A": "To make the icon more complex and harder to understand",
+          "B": "To evoke a sense of modernity and creativity while maintaining a recognizable shape",
+          "C": "To ensure the icon can only be used in digital formats",
+          "D": "To reduce the cost of printing the icon"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 84,
+    "image_path": "../../../data/easy/process/page_82_social-logo_37550_icon_15.png",
+    "caption": "the linkedin logo on a blue background",
+    "questions": {
+      "question1": {
+        "question": "How many distinct white elements are present within the LinkedIn logo?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "Which of the following best describes the typical use-case for this icon?",
+        "option": {
+          "A": "To represent a social media platform for personal connections",
+          "B": "To signify a professional networking site",
+          "C": "To indicate an email service provider",
+          "D": "To denote a financial institution"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the \"i\" dot above the \"n\" rather than aligning it traditionally above the \"i\"?",
+        "option": {
+          "A": "To create a more compact and visually balanced design",
+          "B": "To make the logo appear taller and more imposing",
+          "C": "To mimic the layout of a URL address",
+          "D": "To symbolize the integration of individual profiles into a network"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 85,
+    "image_path": "../../../data/easy/process/page_132_商务_符号_标签_39829_icon_40.png",
+    "caption": "two black circle with a play button on it",
+    "questions": {
+      "question1": {
+        "question": "How many distinct circular shapes are present in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A stop button",
+          "B": "A play button",
+          "C": "A record button",
+          "D": "A pause button"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the play triangle within a double-circle rather than a single circle?",
+        "option": {
+          "A": "To make the icon more visually complex",
+          "B": "To differentiate it from other media control icons like pause or stop",
+          "C": "To increase the size of the play button for better visibility",
+          "D": "To align with a specific brand's aesthetic guidelines"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 86,
+    "image_path": "../../../data/easy/process/page_393_core_design_19608_icon_204.png",
+    "caption": "a black circular arrow icon",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the icon?",
+        "option": {
+          "A": "Square",
+          "B": "Circle",
+          "C": "Triangle",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Which of the following best describes the function of this icon?",
+        "option": {
+          "A": "Indicating a warning",
+          "B": "Representing a refresh action",
+          "C": "Signaling an error",
+          "D": "Denoting a save operation"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might a designer choose a circular arrow over other shapes for this icon's purpose?",
+        "option": {
+          "A": "To suggest linear progression",
+          "B": "To imply continuous action or updating",
+          "C": "To indicate a final step in a process",
+          "D": "To represent a static state"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 87,
+    "image_path": "../../../data/easy/process/page_700_法律_902_icon_30.png",
+    "caption": "id card icon ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct horizontal lines are present within the rectangular boundary of the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To represent a calendar entry",
+          "B": "To indicate a user profile section",
+          "C": "To signify a financial transaction",
+          "D": "To denote a location marker"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a generic person silhouette rather than a detailed face in the ID card icon?",
+        "option": {
+          "A": "To make the icon more colorful",
+          "B": "To ensure the icon remains universally applicable without bias towards any individual",
+          "C": "To simplify the printing process",
+          "D": "To focus attention on the text lines instead of the image"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 88,
+    "image_path": "../../../data/easy/process/page_92_infiray_35332_icon_1.png",
+    "caption": "a battery with a red lightning bolt ",
+    "questions": {
+      "question1": {
+        "question": "What shape does the red lightning bolt inside the battery icon resemble?",
+        "option": {
+          "A": "A straight line",
+          "B": "A zigzag pattern",
+          "C": "A circular loop",
+          "D": "A curved wave"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely appear?",
+        "option": {
+          "A": "A weather forecast app",
+          "B": "A financial transaction screen",
+          "C": "An electronic device's battery status indicator",
+          "D": "A map application"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a red lightning bolt within the battery icon?",
+        "option": {
+          "A": "To indicate that the battery is fully charged",
+          "B": "To signify a warning about low battery life",
+          "C": "To represent the brand color of the device manufacturer",
+          "D": "To symbolize rapid charging capability"
+        },
+        "answer": "D"
+      }
+    }
+  },
+  {
+    "index": 89,
+    "image_path": "../../../data/easy/process/page_90_smart_home_35874_icon_3.png",
+    "caption": "pc monitor icon",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the body of the PC monitor icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Triangle",
+          "C": "Rectangle",
+          "D": "Pentagon"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To represent a printer",
+          "B": "To indicate a computer display",
+          "C": "To symbolize a mobile phone",
+          "D": "To denote a speaker"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a horizontal teal line across the screen area of the monitor?",
+        "option": {
+          "A": "To indicate the monitor's power status",
+          "B": "To add an aesthetic element without specific meaning",
+          "C": "To suggest content or activity on the screen",
+          "D": "To differentiate between different types of monitors"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 90,
+    "image_path": "../../../data/easy/process/page_79_易魔方常用面性图标库_38236_icon_40.png",
+    "caption": "a clipboard ",
+    "questions": {
+      "question1": {
+        "question": "How many orange lines are present within the blue clipboard shape?",
+        "option": {
+          "A": "2",
+          "B": "4",
+          "C": "3",
+          "D": "5"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context would this clipboard icon most likely be used?",
+        "option": {
+          "A": "As a symbol for a music playlist",
+          "B": "To represent a document or task list",
+          "C": "For indicating a calendar event",
+          "D": "To signify a shopping cart"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include orange lines within the blue clipboard instead of using a solid fill or a different pattern?",
+        "option": {
+          "A": "To make the icon more colorful and visually appealing",
+          "B": "To suggest the presence of content like text or data on the clipboard",
+          "C": "To indicate that the clipboard is empty",
+          "D": "To differentiate it from other icons by adding complexity"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 91,
+    "image_path": "../../../data/easy/process/page_48_程序场景图标_43353_icon_68.png",
+    "caption": "a photo with a heart in the upper right corner",
+    "questions": {
+      "question1": {
+        "question": "Where is the heart symbol located in relation to the photo frame?",
+        "option": {
+          "A": "Bottom left corner",
+          "B": "Upper right corner",
+          "C": "Center of the frame",
+          "D": "Lower right corner"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A music player interface",
+          "B": "A photo editing tool",
+          "C": "A social media post with a like feature",
+          "D": "A map navigation app"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the heart outside the photo frame rather than inside it?",
+        "option": {
+          "A": "To indicate that the photo itself contains a heart shape",
+          "B": "To suggest that the photo has been liked or favored by a user",
+          "C": "To show that the photo is incomplete without the heart",
+          "D": "To imply that the photo is about love stories"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 92,
+    "image_path": "../../../data/easy/process/page_124_rcd_40692_icon_74.png",
+    "caption": "a smiley face in a circle ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct circular shapes are present in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To indicate a warning",
+          "B": "As a symbol for customer support",
+          "C": "To represent a sad mood",
+          "D": "As an indicator for system errors"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the smiley face within a circle rather than another shape?",
+        "option": {
+          "A": "Circles are easier to draw",
+          "B": "A circle suggests inclusivity and wholeness, enhancing the positive message of the smiley face",
+          "C": "It was a random choice with no specific reason",
+          "D": "Squares and other shapes do not fit well with smiley faces"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 94,
+    "image_path": "../../../data/easy/process/page_359_test_21258_icon_173.png",
+    "caption": "a building with a triangular roof and a capital letter 'M' inside",
+    "questions": {
+      "question1": {
+        "question": "What shape does the roof of the building in the icon form?",
+        "option": {
+          "A": "Square",
+          "B": "Triangular",
+          "C": "Circular",
+          "D": "Rectangular"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Which type of establishment is this icon most likely representing?",
+        "option": {
+          "A": "A museum",
+          "B": "A restaurant",
+          "C": "A bank",
+          "D": "A school"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include the letter 'M' within the building's structure?",
+        "option": {
+          "A": "To indicate the building's location on a map",
+          "B": "As an initial for a specific brand or company name",
+          "C": "To signify the building's architectural style",
+          "D": "To represent the month of May"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 95,
+    "image_path": "../../../data/easy/process/page_634_返利app通用图标库_4100_icon_1.png",
+    "caption": " three dots arranged horizontally in a row",
+    "questions": {
+      "question1": {
+        "question": "How many dots are present in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon typically represent in digital interfaces?",
+        "option": {
+          "A": "A button to maximize the window",
+          "B": "An indicator for battery life",
+          "C": "A menu or additional options",
+          "D": "A notification badge"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might a designer choose to use three horizontally aligned dots instead of a single line or a different symbol for representing a menu?",
+        "option": {
+          "A": "To save space on the interface",
+          "B": "To make the icon more visually appealing",
+          "C": "To universally signify 'more options' due to its widespread recognition",
+          "D": "To indicate a loading process"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 96,
+    "image_path": "../../../data/easy/process/page_685_闲鱼拍卖图标库_1434_icon_88.png",
+    "caption": " a yen symbol in a rectangular frame above a curved bowl ",
+    "questions": {
+      "question1": {
+        "question": "What shape contains the yen symbol in the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Triangle",
+          "C": "Rectangle",
+          "D": "Oval"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon likely represent?",
+        "option": {
+          "A": "A currency exchange service",
+          "B": "A restaurant menu",
+          "C": "A financial report",
+          "D": "A savings account"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the yen symbol above a bowl?",
+        "option": {
+          "A": "To indicate that the currency is outdated",
+          "B": "To suggest that food can be purchased with yen",
+          "C": "To show that the yen is losing value",
+          "D": "To imply that the yen is a type of bowl"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 97,
+    "image_path": "../../../data/easy/process/page_284_蜗牛小程序_25391_icon_104.png",
+    "caption": "the letter i in a black circle",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that contains the letter \"i\" in the icon?",
+        "option": {
+          "A": "Square",
+          "B": "Circle",
+          "C": "Triangle",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "This icon is commonly used to represent which of the following?",
+        "option": {
+          "A": "Information",
+          "B": "Exit",
+          "C": "Settings",
+          "D": "Home"
+        },
+        "answer": "A"
+      },
+      "question3": {
+        "question": "Why might a designer choose to place the letter \"i\" inside a circle rather than another shape when aiming to convey information?",
+        "option": {
+          "A": "Circles are easier to draw",
+          "B": "The circular shape universally symbolizes continuity and wholeness, enhancing the concept of comprehensive information",
+          "C": "It uses less space",
+          "D": "Circles are more aesthetically pleasing"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 98,
+    "image_path": "../../../data/easy/process/page_175_美妆图标_35309_icon_14.png",
+    "caption": "a red soap bottle ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct sections can you identify in the outline of the soap bottle icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Seven"
+        },
+        "answer": "D"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To represent a fire extinguisher",
+          "B": "As a symbol for a cleaning product",
+          "C": "To indicate a fuel pump",
+          "D": "As an icon for a water dispenser"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a simple line drawing rather than a detailed illustration for this soap bottle icon?",
+        "option": {
+          "A": "To make it more difficult to recognize",
+          "B": "To enhance the visual complexity of the design",
+          "C": "To ensure clarity and ease of recognition at various sizes",
+          "D": "To focus on the color rather than the shape"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 99,
+    "image_path": "../../../data/easy/process/page_315_workUI_23422_icon_55.png",
+    "caption": "a black outline icon of a storefront or shop",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the structure of the storefront icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Triangle",
+          "C": "Rectangle",
+          "D": "Pentagon"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To represent a library",
+          "B": "To indicate a shopping location",
+          "C": "To symbolize a hospital",
+          "D": "To denote a park"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a simple black outline for the storefront icon?",
+        "option": {
+          "A": "To make it more colorful",
+          "B": "To ensure it stands out against any background",
+          "C": "To complicate the design",
+          "D": "To reduce the file size unnecessarily"
+        },
+        "answer": "B"
+      }
+    }
+  }
+]

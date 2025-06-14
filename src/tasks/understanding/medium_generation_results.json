@@ -1,0 +1,2888 @@
+[
+  {
+    "index": 0,
+    "image_path": "../../../data/moderate/process/page_51_小假哥_多彩_icon104_42838_icon_3.png",
+    "caption": " a trash bin with an organ-yellow body",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the body of the trash bin in the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Square",
+          "C": "Rectangle",
+          "D": "Triangle"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "Based on the icon's design, which of the following is the most likely use-case for this trash bin?",
+        "option": {
+          "A": "Recycling organic waste",
+          "B": "Disposing of hazardous materials",
+          "C": "General waste disposal",
+          "D": "Collecting electronic waste"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a circular element near the bottom left corner of the trash bin icon?",
+        "option": {
+          "A": "To indicate a recycling symbol",
+          "B": "To represent a wheel for mobility",
+          "C": "To suggest a button for compacting waste",
+          "D": "To add aesthetic balance to the design"
+        },
+        "answer": "D"
+      }
+    }
+  },
+  {
+    "index": 3,
+    "image_path": "../../../data/moderate/process/page_592_Ant_Design_官方图标库_9402_icon_51.png",
+    "caption": "a black icon of a square frame containing two vertical slider bars, each with a circular knob positioned at different heights",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are present within the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A music player",
+          "B": "A settings menu",
+          "C": "A file explorer",
+          "D": "A calendar"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to position the circular knobs at different heights?",
+        "option": {
+          "A": "To indicate that the sliders control unrelated functions",
+          "B": "To create an aesthetically pleasing asymmetry",
+          "C": "To suggest that the sliders are set to different values",
+          "D": "To imply that one slider is more important than the other"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 4,
+    "image_path": "../../../data/moderate/process/page_73_渐变通用图标库-圆滚滚_39658_icon_17.png",
+    "caption": "a pink circle with a headset on it",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the background of the icon?",
+        "option": {
+          "A": "Square",
+          "B": "Circle",
+          "C": "Triangle",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Which of the following best describes the function represented by this icon?",
+        "option": {
+          "A": "Video editing software",
+          "B": "Customer support service",
+          "C": "File transfer protocol",
+          "D": "Social media platform"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a pink color for the background of the icon?",
+        "option": {
+          "A": "To indicate a high level of urgency",
+          "B": "To evoke feelings of warmth and approachability",
+          "C": "To signify technical complexity",
+          "D": "To represent coldness and professionalism"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 5,
+    "image_path": "../../../data/moderate/process/page_308_mbe小图标一套_11989_icon_5.png",
+    "caption": "a colorful chat bubble icon with a yellow background and a red heart in the center,",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are present within the chat bubble icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent in a digital context?",
+        "option": {
+          "A": "A notification for a new message",
+          "B": "An indication of a love or affectionate message",
+          "C": "A warning symbol for inappropriate content",
+          "D": "A symbol for a financial transaction"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a red heart within a yellow chat bubble for this icon?",
+        "option": {
+          "A": "To indicate a high-priority message requiring immediate attention",
+          "B": "To evoke feelings of warmth and positivity associated with friendly communication",
+          "C": "To signify an error or problem within the messaging system",
+          "D": "To represent a formal or professional communication channel"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 6,
+    "image_path": "../../../data/moderate/process/page_98_GIS地图图标_34378_icon_162.png",
+    "caption": "a syringe and a bottle of medicine ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are used to represent the syringe in the icon?",
+        "option": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "5"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be found?",
+        "option": {
+          "A": "A recipe book",
+          "B": "A medical facility",
+          "C": "A car repair manual",
+          "D": "A music app"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a drop above the syringe?",
+        "option": {
+          "A": "To indicate that the medicine is expired",
+          "B": "To suggest the action of administering medication",
+          "C": "To show the temperature of the medicine",
+          "D": "To imply that the syringe is empty"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 8,
+    "image_path": "../../../data/moderate/process/page_135_outline-icon_39349_icon_386.png",
+    "caption": " a C-shaped circuit  with multiple pins, combined with a gear ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are combined in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A musical instrument",
+          "B": "A mechanical component",
+          "C": "A financial transaction",
+          "D": "A digital storage device"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to combine a C-shaped circuit with a gear in this icon?",
+        "option": {
+          "A": "To symbolize the integration of technology and mechanics",
+          "B": "To indicate a process that requires manual input",
+          "C": "To represent a purely aesthetic choice without functional significance",
+          "D": "To signify a chemical reaction"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 9,
+    "image_path": "../../../data/moderate/process/page_372_春节系列图标_7969_icon_7.png",
+    "caption": "a colorful icon of tanghulu",
+    "questions": {
+      "question1": {
+        "question": "How many spherical elements are present in the tanghulu icon?",
+        "option": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "5"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What traditional Chinese snack does this icon represent?",
+        "option": {
+          "A": "Fried dough sticks",
+          "B": "Tanghulu",
+          "C": "Rice cakes",
+          "D": "Dumplings"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to depict the tanghulu with a glossy appearance?",
+        "option": {
+          "A": "To indicate that it's made of glass",
+          "B": "To suggest the sugary coating typical of tanghulu",
+          "C": "To make the icon look more modern",
+          "D": "To imply it's a digital product"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 11,
+    "image_path": "../../../data/moderate/process/page_136_商务-线性_39258_icon_22.png",
+    "caption": "a stack of discs with an upward arrow on the right",
+    "questions": {
+      "question1": {
+        "question": "What visual feature is most prominent in the icon?",
+        "option": {
+          "A": "A downward arrow",
+          "B": "A stack of discs",
+          "C": "A single large disc",
+          "D": "A curved line"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon likely represent in a software application?",
+        "option": {
+          "A": "Downloading files",
+          "B": "Uploading files",
+          "C": "Saving documents",
+          "D": "Deleting files"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the arrow on the right side of the stack of discs?",
+        "option": {
+          "A": "To indicate left-to-right reading order",
+          "B": "To suggest movement or action towards the next step",
+          "C": "To balance the visual weight of the icon",
+          "D": "To follow a random design choice"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 12,
+    "image_path": "../../../data/moderate/process/page_4_vscode-icons_49950_icon_31.png",
+    "caption": "a mint green folder icon with a dark green shield containing a white key symbol",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are combined to form this icon?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A secure file storage system",
+          "B": "A financial transaction app",
+          "C": "A travel booking platform",
+          "D": "An educational resource library"
+        },
+        "answer": "A"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a shield with a key symbol overlapping the folder?",
+        "option": {
+          "A": "To indicate that the folder contains keys",
+          "B": "To suggest that the folder requires physical access",
+          "C": "To imply security and restricted access to the contents of the folder",
+          "D": "To make the icon more visually appealing without any specific meaning"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 13,
+    "image_path": "../../../data/moderate/process/page_14_数字社区_49928_icon_1.png",
+    "caption": "a black circular icon containing four white teardrop",
+    "questions": {
+      "question1": {
+        "question": "According to the caption, how many white teardrop shapes are contained within the black circular icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Four",
+          "D": "Six"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "Based on the description, which of the following could this icon represent?",
+        "option": {
+          "A": "A weather app showing rain",
+          "B": "A music player indicating volume level",
+          "C": "A navigation app showing directions",
+          "D": "A financial app displaying stock trends"
+        },
+        "answer": "A"
+      },
+      "question3": {
+        "question": "Considering the design described, why might the designer have chosen teardrop shapes for this icon?",
+        "option": {
+          "A": "To symbolize water droplets for a hydration app",
+          "B": "To represent abstract musical notes for a sound-related application",
+          "C": "To visually suggest falling raindrops for a weather-related context",
+          "D": "To indicate a decrease in values for a finance-related tool"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 14,
+    "image_path": "../../../data/moderate/process/page_397_多色施工类icon_6158_icon_9.png",
+    "caption": "a repairman in a yellow hat and a tie holding a hammer and a tool kit",
+    "questions": {
+      "question1": {
+        "question": "How many distinct objects is the repairman holding in his hands?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Based on the icon's depiction, which scenario is this repairman most likely associated with?",
+        "option": {
+          "A": "A software developer debugging code",
+          "B": "A financial analyst reviewing charts",
+          "C": "A construction worker fixing physical structures",
+          "D": "A teacher explaining a lesson"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include both a hammer and a tool kit in the repairman's hands instead of just one item?",
+        "option": {
+          "A": "To make the icon more colorful",
+          "B": "To symbolize versatility and readiness for various tasks",
+          "C": "To fill up space in the design",
+          "D": "To indicate that the repairman is inexperienced and needs multiple tools"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 15,
+    "image_path": "../../../data/moderate/process/page_308_智慧_11927_icon_19.png",
+    "caption": "a yellow ruler with measurements, a triangular drawing instrument, and a simplified blueprint with dotted lines and colored elements",
+    "questions": {
+      "question1": {
+        "question": "How many distinct geometric shapes are present in the triangular drawing instrument?",
+        "option": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "5"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Which field is this icon most likely associated with?",
+        "option": {
+          "A": "Music production",
+          "B": "Graphic design",
+          "C": "Construction planning",
+          "D": "Medical diagnostics"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a simplified blueprint with dotted lines and colored elements alongside the ruler and triangular instrument?",
+        "option": {
+          "A": "To indicate the tools are for artistic painting",
+          "B": "To suggest precision and planning in technical drawing",
+          "C": "To imply the tools are used for casual sketching",
+          "D": "To show the tools are for measuring fabric"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 16,
+    "image_path": "../../../data/moderate/process/page_13_常见文件类型图标库_48707_icon_15.png",
+    "caption": "a file with class word inside",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are present within the orange area of the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To represent a music playlist",
+          "B": "To indicate a document related to educational or organizational classes",
+          "C": "To signify a financial report",
+          "D": "To denote a calendar event"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a black rectangle at the top of the file shape?",
+        "option": {
+          "A": "To make the icon more colorful",
+          "B": "To suggest that the file is a digital document",
+          "C": "To imply that the file is confidential",
+          "D": "To visually differentiate the \"CLASS\" label from the rest of the icon"
+        },
+        "answer": "D"
+      }
+    }
+  },
+  {
+    "index": 17,
+    "image_path": "../../../data/moderate/process/page_89_线性旅行图标_36037_icon_19.png",
+    "caption": "a hot air balloon icon",
+    "questions": {
+      "question1": {
+        "question": "How many distinct colors are used in the balloon portion of the icon?",
+        "option": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "5"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "A weather forecast app",
+          "B": "A travel agency website",
+          "C": "A financial planning tool",
+          "D": "A fitness tracker"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a basket with the word \"AUD\" on it?",
+        "option": {
+          "A": "To indicate that the balloon is Australian-made",
+          "B": "To suggest that the balloon ride costs money",
+          "C": "To imply that the balloon is part of an event in Australia",
+          "D": "To add a decorative element without specific meaning"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 18,
+    "image_path": "../../../data/moderate/process/page_302_形状_24011_icon_42.png",
+    "caption": "a yellow spiral ",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the structure of the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Spiral",
+          "C": "Square",
+          "D": "Triangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To represent a linear timeline",
+          "B": "To symbolize continuous growth or evolution",
+          "C": "As a symbol for straight navigation",
+          "D": "To indicate a flat surface"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a yellow color for the spiral against a black background?",
+        "option": {
+          "A": "Yellow is universally recognized as the color of caution",
+          "B": "The contrast between yellow and black enhances visibility and draws attention to the spiral's movement",
+          "C": "Yellow spirals are traditional symbols of wealth",
+          "D": "Black backgrounds are less common in digital interfaces, making the choice unique"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 19,
+    "image_path": "../../../data/moderate/process/page_130_滑雪器材__40130_icon_20.png",
+    "caption": "a pair of ski goggles ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct colors are used in the icon representing the ski goggles?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be found?",
+        "option": {
+          "A": "A medical facility",
+          "B": "A winter sports equipment store",
+          "C": "A swimming pool",
+          "D": "An office supply store"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a red strap in contrast to the black frame of the ski goggles?",
+        "option": {
+          "A": "To make the icon more difficult to recognize",
+          "B": "To highlight the adjustable nature of the strap for better user experience",
+          "C": "Because red is the only color that can be used in icons",
+          "D": "To confuse users about the purpose of the icon"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 20,
+    "image_path": "../../../data/moderate/process/page_72_32位像素风emoji_39823_icon_13.png",
+    "caption": "a pixelated image of a coconut",
+    "questions": {
+      "question1": {
+        "question": "How many distinct colors are primarily used in the pixelated coconut icon?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this pixelated coconut icon most likely appear?",
+        "option": {
+          "A": "A high-resolution food photography website",
+          "B": "A retro video game",
+          "C": "A scientific journal on botany",
+          "D": "A modern graphic design portfolio"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a pixelated style for this coconut icon?",
+        "option": {
+          "A": "To enhance the realism of the coconut's texture",
+          "B": "To evoke nostalgia and fit within a retro aesthetic",
+          "C": "To make the icon more suitable for printing at large sizes",
+          "D": "To simplify the design process by using fewer colors"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 21,
+    "image_path": "../../../data/moderate/process/page_308_水果_11881_icon_13.png",
+    "caption": "a purple plum with a smiley face",
+    "questions": {
+      "question1": {
+        "question": "How many distinct visual elements are present in the icon?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "A financial app",
+          "B": "A children's educational game",
+          "C": "A professional networking site",
+          "D": "A scientific research paper"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a smiley face on the plum?",
+        "option": {
+          "A": "To make the icon more intimidating",
+          "B": "To enhance the fruit's nutritional value visually",
+          "C": "To create a friendly and approachable character",
+          "D": "To indicate that the plum is sour"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 22,
+    "image_path": "../../../data/moderate/process/page_275_化妆品装饰_25821_icon_24.png",
+    "caption": "an icon of a makeup palette",
+    "questions": {
+      "question1": {
+        "question": "How many compartments does the makeup palette icon have?",
+        "option": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "5"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What is the primary purpose of the icon depicted?",
+        "option": {
+          "A": "To represent a music player",
+          "B": "To symbolize a makeup palette",
+          "C": "To indicate a calendar",
+          "D": "To signify a storage box"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include arrows at the bottom of the palette icon?",
+        "option": {
+          "A": "To suggest that the palette can be flipped open",
+          "B": "To indicate that the palette contains moving parts",
+          "C": "To imply that the palette is interactive or customizable",
+          "D": "To show the direction of light reflection on the palette"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 23,
+    "image_path": "../../../data/moderate/process/page_41_后缀名称-文件类型_44573_icon_29.png",
+    "caption": "a document with the word dot on it",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the main body of the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Triangle",
+          "C": "Rectangle",
+          "D": "Pentagon"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "Which file type does this icon most likely represent?",
+        "option": {
+          "A": "Audio file",
+          "B": "Text document",
+          "C": "Image file",
+          "D": "Video file"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include the word \"DOT\" in blue at the bottom of the icon?",
+        "option": {
+          "A": "To indicate the file's size",
+          "B": "To specify the file format",
+          "C": "To highlight the document's creation date",
+          "D": "To denote the document's encryption status"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 24,
+    "image_path": "../../../data/moderate/process/page_7_职业人物头像_49465_icon_14.png",
+    "caption": "a waiter in a vest and bow tie",
+    "questions": {
+      "question1": {
+        "question": "How many distinct colors are used in the icon's depiction of the waiter?",
+        "option": {
+          "A": "4",
+          "B": "5",
+          "C": "6",
+          "D": "7"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "A medical facility",
+          "B": "A restaurant menu",
+          "C": "A sports event",
+          "D": "An educational institution"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a red bow tie for the waiter's uniform in this icon?",
+        "option": {
+          "A": "To indicate the waiter's seniority",
+          "B": "To make the icon more visually appealing and easily recognizable",
+          "C": "To signify a specific type of cuisine",
+          "D": "To match the color scheme of the restaurant's logo"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 26,
+    "image_path": "../../../data/moderate/process/page_36_娱乐人生_45431_icon_13.png",
+    "caption": "a purple calculator with yellow and green display elements at the top and a grid of buttons below",
+    "questions": {
+      "question1": {
+        "question": "How many distinct colors are used in the display elements of the calculator?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "A music application",
+          "B": "A financial software interface",
+          "C": "A weather forecasting app",
+          "D": "A social media platform"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to use contrasting colors for the display elements compared to the rest of the calculator?",
+        "option": {
+          "A": "To make the calculator look more expensive",
+          "B": "To enhance readability and focus on the display",
+          "C": "To align with a specific brand's color scheme",
+          "D": "To reduce the overall cost of production"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 27,
+    "image_path": "../../../data/moderate/process/page_49_混色图标_43233_icon_17.png",
+    "caption": "an yellow open book with a purple gear on bottom right corner",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are present in the icon?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "A"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A library catalog system",
+          "B": "A recipe book",
+          "C": "Technical documentation or manual",
+          "D": "A travel guide"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a gear alongside the book?",
+        "option": {
+          "A": "To indicate that the book is about machinery",
+          "B": "To symbolize the integration of knowledge and technology",
+          "C": "To suggest that the book is interactive",
+          "D": "To imply that the book requires maintenance"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 28,
+    "image_path": "../../../data/moderate/process/page_173_多色线条企业icon_22659_icon_44.png",
+    "caption": "a light bulb with a dollar sign inside",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are combined to form the icon?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What concept does this icon most likely represent?",
+        "option": {
+          "A": "Energy conservation",
+          "B": "Financial innovation",
+          "C": "Currency exchange",
+          "D": "Intellectual property"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might a designer choose to place a dollar sign within a light bulb shape?",
+        "option": {
+          "A": "To suggest that ideas can be costly",
+          "B": "To symbolize the illumination of financial concepts",
+          "C": "To indicate that money is the source of all ideas",
+          "D": "To highlight the importance of economic education"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 29,
+    "image_path": "../../../data/moderate/process/page_12_教育学习_48779_icon_17.png",
+    "caption": "chemistry flask icon",
+    "questions": {
+      "question1": {
+        "question": "How many horizontal lines are present inside the flask portion of the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "A cooking recipe app",
+          "B": "A chemistry textbook",
+          "C": "A gardening guide",
+          "D": "A financial report"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include bubbles within the liquid in the flask?",
+        "option": {
+          "A": "To indicate that the liquid is boiling",
+          "B": "To make the icon more colorful",
+          "C": "To suggest a chemical reaction is occurring",
+          "D": "To show the liquid's temperature"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 30,
+    "image_path": "../../../data/moderate/process/page_10_旅行旅游景点_48951_icon_5.png",
+    "caption": "islamic place of worship icon",
+    "questions": {
+      "question1": {
+        "question": "How many distinct geometric shapes are used in the construction of this Islamic place of worship icon?",
+        "option": {
+          "A": "4",
+          "B": "5",
+          "C": "6",
+          "D": "7"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Which of the following places would most likely feature this icon?",
+        "option": {
+          "A": "A Christian church directory",
+          "B": "A map of Middle Eastern landmarks",
+          "C": "A guide to European cathedrals",
+          "D": "An atlas of ancient Greek architecture"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a simplified dome shape above the structure in this icon?",
+        "option": {
+          "A": "To represent the sky above the building",
+          "B": "To symbolize the traditional domes found in Islamic architecture",
+          "C": "To indicate that the building has a modern roof",
+          "D": "To suggest that the building is located in a desert environment"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 31,
+    "image_path": "../../../data/moderate/process/page_376_服务行业改_20390_icon_41.png",
+    "caption": "a pair of hands cradling  a small seedling with two leaves",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are present in the icon?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A medical procedure",
+          "B": "Environmental care",
+          "C": "A gardening tool",
+          "D": "A handshake agreement"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to depict the seedling with only two leaves?",
+        "option": {
+          "A": "To symbolize minimalism and simplicity",
+          "B": "To indicate that the plant is fully grown",
+          "C": "To make the icon more complex and detailed",
+          "D": "To suggest that the plant is in an advanced stage of growth"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 32,
+    "image_path": "../../../data/moderate/process/page_392_扁平化科学领域图标_7084_icon_84.png",
+    "caption": "a magnifying glass with a microscope on it",
+    "questions": {
+      "question1": {
+        "question": "How many distinct purple shapes are visible within the magnifying glass?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "D"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A general search tool",
+          "B": "A scientific investigation or research",
+          "C": "A tool for artistic drawing",
+          "D": "A navigation aid"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include purple shapes resembling bacteria under the magnifying glass?",
+        "option": {
+          "A": "To indicate that the magnifying glass can detect any object",
+          "B": "To suggest the icon is related to medical or biological research",
+          "C": "To make the icon more visually appealing without specific meaning",
+          "D": "To imply the magnifying glass has magical properties"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 35,
+    "image_path": "../../../data/moderate/process/page_54_小假哥_多彩_icon070_42746_icon_25.png",
+    "caption": "a blue location marker icon featuring a yellow circular element with a dark center point",
+    "questions": {
+      "question1": {
+        "question": "How many distinct concentric circles are present within the yellow circular element of the icon?",
+        "option": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "5"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "This icon is most likely used to represent which of the following concepts?",
+        "option": {
+          "A": "Weather conditions",
+          "B": "Location services",
+          "C": "Battery status",
+          "D": "Network connectivity"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a dark center point within the yellow circular element of this location marker icon?",
+        "option": {
+          "A": "To indicate the exact pinpoint location for clarity",
+          "B": "To enhance the aesthetic appeal by adding contrast",
+          "C": "To signify a warning or alert related to the location",
+          "D": "To represent the sun's position in relation to the map area"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 38,
+    "image_path": "../../../data/moderate/process/page_299_占星符号_24206_icon_10.png",
+    "caption": "sagittarius zodiac sign ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct circular loops are present in the Sagittarius zodiac sign icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would you most likely encounter this icon?",
+        "option": {
+          "A": "A weather forecast",
+          "B": "An astrology chart",
+          "C": "A navigation app",
+          "D": "A medical document"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a minimalist approach with simple lines for the Sagittarius zodiac sign icon?",
+        "option": {
+          "A": "To make it more complex and detailed",
+          "B": "To enhance its visibility and recognition at small sizes",
+          "C": "To align with modern architectural trends",
+          "D": "To symbolize the complexity of Sagittarius traits"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 39,
+    "image_path": "../../../data/moderate/process/page_268_美食icon_14970_icon_6.png",
+    "caption": "an food icon with a yellow yolk and a pink shell",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape of the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Triangle",
+          "C": "Square",
+          "D": "Oval"
+        },
+        "answer": "D"
+      },
+      "question2": {
+        "question": "Which type of food does this icon most likely represent?",
+        "option": {
+          "A": "An egg",
+          "B": "A peach",
+          "C": "A candy",
+          "D": "A cookie"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a pink shell and a yellow interior for this icon?",
+        "option": {
+          "A": "To represent a hard-boiled egg",
+          "B": "To mimic the colors of a peach's skin and flesh",
+          "C": "To symbolize a candy wrapper",
+          "D": "To depict a cookie with a filling"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 40,
+    "image_path": "../../../data/moderate/process/page_37_一级菜单图标_48406_icon_6.png",
+    "caption": "a hand pointing to a dollar sign",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are present in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To indicate a location on a map",
+          "B": "To represent financial transactions or costs",
+          "C": "To signal a warning or caution",
+          "D": "To denote a social media platform"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to combine a hand pointing with a dollar sign in this icon?",
+        "option": {
+          "A": "To suggest that money can be touched or physically handled",
+          "B": "To imply direct action or attention towards financial matters",
+          "C": "To create a playful or whimsical representation of wealth",
+          "D": "To symbolize the idea of giving or donating money"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 41,
+    "image_path": "../../../data/moderate/process/page_6_程序代码_49642_icon_15.png",
+    "caption": "a blue cube ",
+    "questions": {
+      "question1": {
+        "question": "How many visible faces does the blue cube in the image have?",
+        "option": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "6"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In digital interfaces, a blue cube like the one shown is most likely used to represent which of the following?",
+        "option": {
+          "A": "A file folder",
+          "B": "A storage container",
+          "C": "A 3D modeling tool",
+          "D": "A hyperlink"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a gradient shade of blue for the cube instead of a solid color?",
+        "option": {
+          "A": "To make the cube appear more flat and two-dimensional",
+          "B": "To enhance the perception of depth and three-dimensionality",
+          "C": "To indicate that the cube is clickable",
+          "D": "To align with a specific brand color scheme"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 42,
+    "image_path": "../../../data/moderate/process/page_63_糖果风甜美可爱_41912_icon_53.png",
+    "caption": "mp3 player icon with gray shadow in the green background",
+    "questions": {
+      "question1": {
+        "question": "How many distinct circular shapes are present within the cassette tape representation in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Given the context of the icon's design, which application or software feature is this icon most likely to represent?",
+        "option": {
+          "A": "A file management system",
+          "B": "An audio player or music app",
+          "C": "A video editing tool",
+          "D": "A photo gallery viewer"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a gray shadow effect around the cassette tape within the icon?",
+        "option": {
+          "A": "To make the icon more colorful and vibrant",
+          "B": "To enhance the visual depth and give a sense of the cassette being slightly raised from the surface",
+          "C": "To indicate that the cassette is currently playing",
+          "D": "To align with a specific brand color scheme"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 44,
+    "image_path": "../../../data/moderate/process/page_126_图形平台_40462_icon_6.png",
+    "caption": "an icon a piece of paper with a gear on bottom right corner",
+    "questions": {
+      "question1": {
+        "question": "How many horizontal lines are present within the rectangular shape of the icon?",
+        "option": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "4"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A document editing tool",
+          "B": "A music player interface",
+          "C": "System settings or configuration",
+          "D": "A file transfer protocol"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the gear symbol in the bottom right corner of the icon?",
+        "option": {
+          "A": "To indicate that the settings can only be accessed after completing other tasks",
+          "B": "To visually separate the settings from the main content area while still associating them with the document",
+          "C": "To suggest that the gear is a secondary feature compared to the sliders",
+          "D": "To imply that the settings are less important than the document itself"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 45,
+    "image_path": "../../../data/moderate/process/page_35_临床医疗_45858_icon_3.png",
+    "caption": "a  reagent bottle icon with a blue square containing a  cellular pattern",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are present within the blue square of the reagent bottle icon?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this reagent bottle icon most likely represent in a scientific context?",
+        "option": {
+          "A": "A container for solid chemicals",
+          "B": "A container for liquid reagents used in cell culture",
+          "C": "A storage unit for hazardous waste",
+          "D": "A packaging for medical pills"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a cellular pattern inside the blue square of the reagent bottle icon?",
+        "option": {
+          "A": "To indicate that the contents are radioactive",
+          "B": "To suggest that the reagent is used specifically for cell-based experiments",
+          "C": "To imply that the reagent is environmentally friendly",
+          "D": "To signify that the reagent is a universal solvent"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 49,
+    "image_path": "../../../data/moderate/process/page_513_交通工具系列_13337_icon_27.png",
+    "caption": "a motorcycle icon",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the body of the motorcycle in the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Rectangle",
+          "C": "Triangle",
+          "D": "Oval"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this motorcycle icon most likely be used?",
+        "option": {
+          "A": "A car dealership website",
+          "B": "A food delivery app",
+          "C": "A travel blog focusing on road trips",
+          "D": "A bicycle repair shop"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a simplified, minimalistic style for the motorcycle icon?",
+        "option": {
+          "A": "To make it easier to print in high resolution",
+          "B": "To ensure it is easily recognizable at small sizes",
+          "C": "To reduce the file size for faster loading times",
+          "D": "To appeal to a younger audience who prefer simpler designs"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 50,
+    "image_path": "../../../data/moderate/process/page_47_网络拓扑图节点_47626_icon_15.png",
+    "caption": "a planet  with orbital rings around it and several small dots ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct circular elements are present in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "More than three"
+        },
+        "answer": "D"
+      },
+      "question2": {
+        "question": "What do the small dots surrounding the planet most likely represent in this icon?",
+        "option": {
+          "A": "Stars",
+          "B": "Moons or satellites",
+          "C": "Asteroids",
+          "D": "Planetary rings"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include orbital rings in the depiction of the planet?",
+        "option": {
+          "A": "To indicate the planet's age",
+          "B": "To suggest advanced technology or artificial structures",
+          "C": "To show the planet's distance from the sun",
+          "D": "To imply the presence of water bodies"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 51,
+    "image_path": "../../../data/moderate/process/page_87_食物图标_36583_icon_12.png",
+    "caption": "a kebab icon showing alternating red circular items and brown square pieces threaded on a stick",
+    "questions": {
+      "question1": {
+        "question": "How many red circular items are there in the kebab icon?",
+        "option": {
+          "A": "2",
+          "B": "4",
+          "C": "6",
+          "D": "8"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What type of food does this icon most likely represent?",
+        "option": {
+          "A": "Sushi",
+          "B": "Kebab",
+          "C": "Pizza",
+          "D": "Sandwich"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen alternating red circles and brown squares for the kebab icon?",
+        "option": {
+          "A": "To make the icon more colorful",
+          "B": "To represent different types of meat and vegetables",
+          "C": "To create a random pattern",
+          "D": "To simplify the design process"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 52,
+    "image_path": "../../../data/moderate/process/page_58_小假哥_生活_icon032_42551_icon_28.png",
+    "caption": "a small yellow shop icon with a door",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are used to construct the shop icon?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "To represent a residential home",
+          "B": "To indicate a shopping location",
+          "C": "To symbolize an industrial building",
+          "D": "To denote a public park"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a scalloped awning shape for the shop icon?",
+        "option": {
+          "A": "To make the icon look more modern and sleek",
+          "B": "To suggest a traditional or classic storefront style",
+          "C": "To imply that the shop sells food items",
+          "D": "To differentiate it from other types of buildings like houses or offices"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 53,
+    "image_path": "../../../data/moderate/process/page_332_天天早餐_10773_icon_19.png",
+    "caption": "a bowl of ramen with a smiling face",
+    "questions": {
+      "question1": {
+        "question": "How many distinct colors are used in the icon's design?",
+        "option": {
+          "A": "4",
+          "B": "5",
+          "C": "6",
+          "D": "7"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A happy meal deal",
+          "B": "A traditional Japanese dish",
+          "C": "A dessert with a smiley face",
+          "D": "A bowl of soup with noodles"
+        },
+        "answer": "D"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a smiling face on the bowl?",
+        "option": {
+          "A": "To indicate that the ramen is spicy",
+          "B": "To make the icon more appealing and friendly to users",
+          "C": "To suggest that the ramen is cold",
+          "D": "To show that the ramen is vegetarian"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 54,
+    "image_path": "../../../data/moderate/process/page_394_礼物多色小图标_6623_icon_18.png",
+    "caption": "a red bow ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct loops are visible in the red bow icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this red bow icon most likely be used?",
+        "option": {
+          "A": "To represent a medical warning",
+          "B": "As a symbol for a gift or celebration",
+          "C": "To indicate a location on a map",
+          "D": "As an icon for a financial transaction"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a simple, solid red color for the bow instead of a more detailed or multicolored design?",
+        "option": {
+          "A": "To make the icon more difficult to recognize",
+          "B": "To ensure the icon remains clear and easily recognizable at small sizes",
+          "C": "To align with a specific brand's color scheme that requires only red",
+          "D": "To reduce the file size of the image for faster loading times"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 55,
+    "image_path": "../../../data/moderate/process/page_10_安全_49029_icon_19.png",
+    "caption": "a pair of handcuffs ",
+    "questions": {
+      "question1": {
+        "question": "How many circular loops are present in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "A music streaming app",
+          "B": "A security or law enforcement application",
+          "C": "A travel booking site",
+          "D": "An educational platform"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a minimalist style for this icon?",
+        "option": {
+          "A": "To make it more visually appealing",
+          "B": "To ensure clarity and immediate recognition across various sizes and resolutions",
+          "C": "To reduce file size for faster loading times",
+          "D": "To align with modern aesthetic trends"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 58,
+    "image_path": "../../../data/moderate/process/page_723_阿里小蜜图标库_252_icon_32.png",
+    "caption": "eight evenly spaced lines arranged in a radial pattern around an empty center",
+    "questions": {
+      "question1": {
+        "question": "How many lines are present in the icon?",
+        "option": {
+          "A": "Six",
+          "B": "Eight",
+          "C": "Ten",
+          "D": "Twelve"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Which of the following best describes the typical use-case for this type of icon?",
+        "option": {
+          "A": "Indicating a refresh or reload action",
+          "B": "Representing a menu or list",
+          "C": "Signaling a warning or alert",
+          "D": "Depicting a network connection"
+        },
+        "answer": "A"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a radial pattern with evenly spaced lines for this icon?",
+        "option": {
+          "A": "To create a sense of symmetry and balance that suggests stability",
+          "B": "To mimic the appearance of a traditional compass rose for navigation purposes",
+          "C": "To evoke the motion of spinning or rotation, enhancing the perception of refreshing or updating",
+          "D": "To symbolize connectivity and interlinking nodes in a network"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 59,
+    "image_path": "../../../data/moderate/process/page_260_150商业面性_26942_icon_31.png",
+    "caption": "a black house with the word close on it",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the structure of the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Triangle",
+          "C": "Square",
+          "D": "Rectangle"
+        },
+        "answer": "D"
+      },
+      "question2": {
+        "question": "Given the context of the icon, which scenario is most likely to feature this icon?",
+        "option": {
+          "A": "An app button to open a new window",
+          "B": "A sign indicating a shop is open",
+          "C": "A button to exit an application or dialog box",
+          "D": "A symbol for a secure connection"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to use a black color scheme for the entire icon?",
+        "option": {
+          "A": "To make the icon more visually appealing",
+          "B": "To signify the action of closing as a final or definitive act",
+          "C": "To ensure compatibility with light-themed interfaces only",
+          "D": "To indicate that the house is not available"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 60,
+    "image_path": "../../../data/moderate/process/page_201_复古时尚多彩服饰图标_20831_icon_6.png",
+    "caption": "a green pleated skirt icon with vertical folds and a brown belt featuring a gold square buckle",
+    "questions": {
+      "question1": {
+        "question": "How many vertical folds are present in the green pleated skirt icon?",
+        "option": {
+          "A": "4",
+          "B": "5",
+          "C": "6",
+          "D": "7"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "A fashion app showcasing modern dresses",
+          "B": "A historical costume guide for traditional attire",
+          "C": "An advertisement for swimwear",
+          "D": "A catalog for men's formal wear"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a gold square buckle for the brown belt on the green pleated skirt?",
+        "option": {
+          "A": "To make the icon more colorful and vibrant",
+          "B": "To emphasize the traditional and elegant nature of the skirt",
+          "C": "To indicate that the skirt is made of expensive materials",
+          "D": "To align with contemporary fashion trends"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 61,
+    "image_path": "../../../data/moderate/process/page_33_旅游_46080_icon_59.png",
+    "caption": "a cartoon purple shark",
+    "questions": {
+      "question1": {
+        "question": "How many distinct colors are used in the shark icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "A professional business presentation",
+          "B": "A children's educational app",
+          "C": "A scientific research paper",
+          "D": "A formal legal document"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a cartoon style for this shark icon?",
+        "option": {
+          "A": "To make the shark appear more intimidating",
+          "B": "To appeal to a younger audience and convey a friendly tone",
+          "C": "To accurately represent a real shark species",
+          "D": "To comply with strict scientific illustration standards"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 62,
+    "image_path": "../../../data/moderate/process/page_183_线性_34437_icon_19.png",
+    "caption": "a minimalist blue line drawing of two zongzi (Chinese rice dumplings)",
+    "questions": {
+      "question1": {
+        "question": "How many distinct triangular shapes are present in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Which cultural festival is this icon most likely associated with?",
+        "option": {
+          "A": "Mid-Autumn Festival",
+          "B": "Dragon Boat Festival",
+          "C": "Lantern Festival",
+          "D": "Spring Festival"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a minimalist style for this icon?",
+        "option": {
+          "A": "To make it more complex and detailed",
+          "B": "To enhance the realism of the zongzi",
+          "C": "To ensure clarity and easy recognition at small sizes",
+          "D": "To focus on the texture of the zongzi"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 63,
+    "image_path": "../../../data/moderate/process/page_395_可爱的小树叶_6565_icon_70.png",
+    "caption": "a green maple leaf ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct lobes does the green maple leaf in the image have?",
+        "option": {
+          "A": "3",
+          "B": "4",
+          "C": "5",
+          "D": "6"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "Which of the following is the most likely context where this green maple leaf icon would be used?",
+        "option": {
+          "A": "As a symbol for a financial institution",
+          "B": "To represent Canada or Canadian-related content",
+          "C": "In a menu for a seafood restaurant",
+          "D": "As an emblem for a technology company"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Considering the design of the green maple leaf, which aspect contributes most effectively to its recognition as a maple leaf rather than another type of leaf?",
+        "option": {
+          "A": "The color green",
+          "B": "The presence of a stem",
+          "C": "The five distinct lobes with pointed tips",
+          "D": "The overall size of the leaf"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 64,
+    "image_path": "../../../data/moderate/process/page_227_商业,事务,金融,财务,扁平_18452_icon_50.png",
+    "caption": "a businessman wearing a pair of black round-framed glasses in a suit with a yellow cloud containing question mark above his head",
+    "questions": {
+      "question1": {
+        "question": "How many distinct circular shapes are present in the icon?",
+        "option": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "5"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does the yellow cloud with a question mark symbolize in this icon?",
+        "option": {
+          "A": "Certainty",
+          "B": "Confusion",
+          "C": "Celebration",
+          "D": "Warning"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a yellow cloud instead of a white one to contain the question mark?",
+        "option": {
+          "A": "Yellow clouds are more common in nature",
+          "B": "White clouds would blend into the background",
+          "C": "Yellow is often associated with caution or attention, enhancing the sense of inquiry",
+          "D": "Yellow is easier to draw than white."
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 65,
+    "image_path": "../../../data/moderate/process/page_81_横切面水果图标_37754_icon_17.png",
+    "caption": "a pink fruit circular icon with a darker pink outline, white radiating lines around the edge, and two concentric circles in the center",
+    "questions": {
+      "question1": {
+        "question": "How many concentric circles are present in the center of the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Based on the visual elements, which of the following is this icon most likely representing?",
+        "option": {
+          "A": "A flower",
+          "B": "A watermelon slice",
+          "C": "A clock",
+          "D": "A target"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include white radiating lines around the edge of the icon?",
+        "option": {
+          "A": "To indicate movement or sound",
+          "B": "To enhance the perception of depth and texture",
+          "C": "To symbolize a specific cultural reference",
+          "D": "To represent a digital signal"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 66,
+    "image_path": "../../../data/moderate/process/page_328_牛肉拉面图标库_10859_icon_3.png",
+    "caption": "a teapot ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct geometric shapes are used to form the body of the teapot in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this teapot icon most likely be found?",
+        "option": {
+          "A": "A coffee shop menu",
+          "B": "A tea-related product advertisement",
+          "C": "A kitchen appliance store",
+          "D": "A water filtration system catalog"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a patterned band around the middle of the teapot instead of a solid color fill?",
+        "option": {
+          "A": "To make the icon more visually appealing and recognizable",
+          "B": "To indicate that the teapot is made of glass",
+          "C": "To suggest that the teapot is filled with liquid",
+          "D": "To imply that the teapot is part of a set with matching cups"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 67,
+    "image_path": "../../../data/moderate/process/page_339_小咪宠物店_10635_icon_8.png",
+    "caption": "a pair of scissors on a blue background",
+    "questions": {
+      "question1": {
+        "question": "How many distinct colors are used in the icon, excluding the background?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be found?",
+        "option": {
+          "A": "A music streaming app",
+          "B": "A tailoring or crafting website",
+          "C": "A financial management tool",
+          "D": "A weather forecast application"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen pink handles for the scissors in this icon?",
+        "option": {
+          "A": "To indicate that the scissors are only for cutting paper",
+          "B": "To make the icon more appealing to a younger audience or for creative purposes",
+          "C": "To signify that the scissors are made of plastic",
+          "D": "To represent a specific brand color unrelated to the icon's function"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 68,
+    "image_path": "../../../data/moderate/process/page_514_天气系列_13334_icon_43.png",
+    "caption": "a cloud with sun rays peeking from behind it and three diagonal lines with circles at the bottom representing raindrops",
+    "questions": {
+      "question1": {
+        "question": "What shape does the icon primarily feature?",
+        "option": {
+          "A": "Triangle",
+          "B": "Circle",
+          "C": "Square",
+          "D": "Cloud"
+        },
+        "answer": "D"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A thunderstorm",
+          "B": "A sunny day",
+          "C": "Rainy weather with some sunshine",
+          "D": "Snowfall"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include both sun rays and raindrops in the same icon?",
+        "option": {
+          "A": "To indicate unpredictable weather",
+          "B": "To show a transition from day to night",
+          "C": "To symbolize a weather condition where rain occurs while the sun is still shining",
+          "D": "To create a visually balanced design"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 71,
+    "image_path": "../../../data/moderate/process/page_297_学习_24358_icon_49.png",
+    "caption": "a blue ink pen and feather in the right",
+    "questions": {
+      "question1": {
+        "question": "How many distinct elements are combined in this icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A music note",
+          "B": "A writing tool",
+          "C": "A bird",
+          "D": "A medical device"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to combine a pen and a feather in this icon?",
+        "option": {
+          "A": "To symbolize the evolution of writing tools",
+          "B": "To indicate a lightweight pen",
+          "C": "To suggest a connection between traditional and modern writing methods",
+          "D": "To create an abstract art piece"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 72,
+    "image_path": "../../../data/moderate/process/page_61_小假哥_多彩_icon022_42149_icon_14.png",
+    "caption": "a colorful pinwheel ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct colors are used in the blades of the pinwheel?",
+        "option": {
+          "A": "3",
+          "B": "4",
+          "C": "5",
+          "D": "6"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this colorful pinwheel icon most likely be found?",
+        "option": {
+          "A": "A financial report",
+          "B": "A children's toy store website",
+          "C": "A professional networking site",
+          "D": "A medical database"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a bright orange center for the pinwheel instead of a neutral color like gray?",
+        "option": {
+          "A": "To make the icon less noticeable",
+          "B": "To symbolize caution or danger",
+          "C": "To create a focal point that draws attention to the center",
+          "D": "To match the background color"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 74,
+    "image_path": "../../../data/moderate/process/page_32_iconPark高质量统一化图标_48811_icon_4496.png",
+    "caption": "a user with a a less-than sign on the right",
+    "questions": {
+      "question1": {
+        "question": "According to the caption, which symbol is positioned on the right side of the user?",
+        "option": {
+          "A": "Greater-than sign",
+          "B": "Less-than sign",
+          "C": "Equal sign",
+          "D": "Plus sign"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In digital interfaces, a user icon with a less-than sign on the right could imply which of the following?",
+        "option": {
+          "A": "The user has a high status",
+          "B": "The user is part of a group",
+          "C": "The user's profile is private",
+          "D": "The user has unread messages or notifications"
+        },
+        "answer": "D"
+      },
+      "question3": {
+        "question": "Considering user interface design principles, why might a designer choose to place a less-than sign next to a user icon?",
+        "option": {
+          "A": "To indicate the user's level of expertise",
+          "B": "As a placeholder for missing information",
+          "C": "To visually represent a back or previous action related to the user",
+          "D": "To signify the user's role within an organization"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 75,
+    "image_path": "../../../data/moderate/process/page_363_吾欢喜_21058_icon_11.png",
+    "caption": "a hat",
+    "questions": {
+      "question1": {
+        "question": "How many distinct sections are visually separated by lines in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Which of the following scenarios is this icon most likely to represent?",
+        "option": {
+          "A": "A chef preparing food",
+          "B": "A person staying warm in cold weather",
+          "C": "A graduation ceremony",
+          "D": "A formal business meeting"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include horizontal lines near the bottom of the hat?",
+        "option": {
+          "A": "To indicate the hat's texture or material",
+          "B": "To make the hat appear larger",
+          "C": "To suggest that the hat is made of metal",
+          "D": "To imply that the hat is floating"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 76,
+    "image_path": "../../../data/moderate/process/page_724_群蜂商家助手APP_228_icon_21.png",
+    "caption": "a dark circular icon featuring a white pencil with three small squares aligned below it",
+    "questions": {
+      "question1": {
+        "question": "How many distinct geometric shapes are present within the icon?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What is the most likely function or use-case represented by this icon?",
+        "option": {
+          "A": "File management",
+          "B": "Drawing or writing tools",
+          "C": "Audio editing",
+          "D": "Calendar events"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include three squares beneath the pencil instead of a single square or no squares at all?",
+        "option": {
+          "A": "To indicate a specific brand logo",
+          "B": "To suggest a list or sequence related to writing or drawing tasks",
+          "C": "To balance the visual weight of the pencil",
+          "D": "To represent a numerical value of \"three\""
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 77,
+    "image_path": "../../../data/moderate/process/page_208_食物多色图标_20440_icon_22.png",
+    "caption": "two biscuits ",
+    "questions": {
+      "question1": {
+        "question": "How many circular indentations are visible on the top biscuit?",
+        "option": {
+          "A": "10",
+          "B": "15",
+          "C": "18",
+          "D": "20"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "A recipe for baking bread",
+          "B": "An advertisement for a snack brand",
+          "C": "A guide for making sandwiches",
+          "D": "A tutorial on pottery"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to depict only part of the second biscuit overlapping the first?",
+        "option": {
+          "A": "To save space in the design",
+          "B": "To suggest abundance without overcrowding the image",
+          "C": "To indicate that the biscuits are stacked unevenly",
+          "D": "To imply that one biscuit is being eaten"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 78,
+    "image_path": "../../../data/moderate/process/page_208_常购商品_20444_icon_4.png",
+    "caption": "a yellow bow with a star in the center and two hanging ribbons below",
+    "questions": {
+      "question1": {
+        "question": "How many distinct elements make up the central part of the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "This icon is most likely used to represent which of the following?",
+        "option": {
+          "A": "A military award",
+          "B": "A birthday decoration",
+          "C": "A navigation tool",
+          "D": "A weather symbol"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a star as the central element of this icon?",
+        "option": {
+          "A": "To indicate a celestial theme",
+          "B": "To signify excellence or celebration",
+          "C": "To represent a compass point",
+          "D": "To symbolize a warning"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 80,
+    "image_path": "../../../data/moderate/process/page_12_ERP系统_48797_icon_32.png",
+    "caption": "a teal icon with a circular handle and rectangular base, paired with a gear symbol",
+    "questions": {
+      "question1": {
+        "question": "What is the shape of the main element in the icon?",
+        "option": {
+          "A": "Triangle",
+          "B": "Circle",
+          "C": "Square",
+          "D": "Rectangle"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Which of the following best describes the function this icon might represent?",
+        "option": {
+          "A": "User settings",
+          "B": "File management",
+          "C": "Network connection",
+          "D": "Media playback"
+        },
+        "answer": "A"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to pair a gear symbol with the circular handle and rectangular base?",
+        "option": {
+          "A": "To indicate that the icon is related to physical machinery",
+          "B": "To suggest customization or configuration options for a user profile",
+          "C": "To imply that the icon is for a game controller",
+          "D": "To signify an environmental feature like wind or water flow"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 81,
+    "image_path": "../../../data/moderate/process/page_172_美食_22745_icon_32.png",
+    "caption": "a plate with a bowl of yellow circle foods on it",
+    "questions": {
+      "question1": {
+        "question": "How many yellow circular food items are present in the bowl?",
+        "option": {
+          "A": "5",
+          "B": "7",
+          "C": "8",
+          "D": "6"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What type of food does this icon most likely represent?",
+        "option": {
+          "A": "Sushi",
+          "B": "Grilled meat",
+          "C": "Fried eggs",
+          "D": "Rice balls"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to depict the food items as yellow circles within an orange bowl?",
+        "option": {
+          "A": "To suggest that the food is cold and unappetizing",
+          "B": "To evoke the appearance of sunny-side-up fried eggs, enhancing the visual appeal and suggesting warmth",
+          "C": "To indicate that the food is spicy",
+          "D": "To imply that the food is sweet and dessert-like"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 82,
+    "image_path": "../../../data/moderate/process/page_238_MBE风格蓝色图标_16269_icon_21.png",
+    "caption": "an icon of a printer with a smiley face",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes make up the smiley face on the printer icon?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent in a digital context?",
+        "option": {
+          "A": "A standard office printer",
+          "B": "A fun or user-friendly printing service",
+          "C": "An error message related to printing",
+          "D": "A high-tech industrial printer"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a smiley face on the printer icon?",
+        "option": {
+          "A": "To indicate that the printer is malfunctioning",
+          "B": "To make the icon more appealing and approachable for users",
+          "C": "To signify that the printer is only for printing happy faces",
+          "D": "To show that the printer is environmentally friendly"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 83,
+    "image_path": "../../../data/moderate/process/page_204_运动系列_20746_icon_16.png",
+    "caption": "a pair of shoes ",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are used to represent the shoe in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What type of footwear does this icon most likely represent?",
+        "option": {
+          "A": "Sandals",
+          "B": "Boots",
+          "C": "Sneakers",
+          "D": "Flip-flops"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include red lines beneath the shoe in the icon?",
+        "option": {
+          "A": "To indicate the brand's logo",
+          "B": "To suggest motion or speed associated with sneakers",
+          "C": "To highlight the price of the shoes",
+          "D": "To show the size of the shoes"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 84,
+    "image_path": "../../../data/moderate/process/page_528_简洁动物图标_12683_icon_14.png",
+    "caption": "a butterfly",
+    "questions": {
+      "question1": {
+        "question": "If the image depicted a butterfly, which of the following would most likely describe its visual features?",
+        "option": {
+          "A": "A single circular shape",
+          "B": "Two symmetrical wings with patterns",
+          "C": "A straight line with dots",
+          "D": "An abstract spiral pattern."
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does a butterfly icon typically represent in various contexts?",
+        "option": {
+          "A": "A symbol of technology and innovation",
+          "B": "A representation of transformation and beauty",
+          "C": "An indicator of financial stability",
+          "D": "A sign of industrial strength."
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Considering the design of a butterfly icon, why might a designer choose to include detailed patterns on the wings?",
+        "option": {
+          "A": "To make the icon less recognizable",
+          "B": "To enhance the aesthetic appeal and signify diversity in nature",
+          "C": "To confuse the viewer's perception",
+          "D": "To reduce the overall size of the icon."
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 85,
+    "image_path": "../../../data/moderate/process/page_84_食物元素_37310_icon_33.png",
+    "caption": "a  beige circular lotus root slice icon showing the characteristic pattern of holes arranged in a ring formation",
+    "questions": {
+      "question1": {
+        "question": "How many distinct black shapes are present within the beige circular icon?",
+        "option": {
+          "A": "4",
+          "B": "5",
+          "C": "6",
+          "D": "7"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A gear mechanism",
+          "B": "A film reel",
+          "C": "A sliced lotus root",
+          "D": "A honeycomb structure"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to depict the holes in a ring formation rather than randomly scattered across the circle?",
+        "option": {
+          "A": "To mimic the natural growth pattern of a lotus root",
+          "B": "To create a more aesthetically pleasing geometric design",
+          "C": "To symbolize unity and completeness",
+          "D": "To enhance the structural integrity of the icon"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 86,
+    "image_path": "../../../data/moderate/process/page_701_小icon_905_icon_37.png",
+    "caption": "a card with a gear in the left and three bars in the right",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are present within the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent in a digital interface?",
+        "option": {
+          "A": "A music player control",
+          "B": "A settings menu",
+          "C": "A file management system",
+          "D": "A network connection status"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the gear on the left side and the bars on the right side of the icon?",
+        "option": {
+          "A": "To create an aesthetically pleasing balance",
+          "B": "To symbolize the progression from settings (gear) to options (bars)",
+          "C": "To align with traditional reading patterns from left to right",
+          "D": "To differentiate between mechanical and digital components visually"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 88,
+    "image_path": "../../../data/moderate/process/page_393_面性图标_6996_icon_83.png",
+    "caption": "a computer monitor with a gear on the bottom right corner",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are present in the icon?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does this icon most likely represent?",
+        "option": {
+          "A": "A printer settings menu",
+          "B": "A computer monitor's display settings",
+          "C": "A software update notification",
+          "D": "A network connection status"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the gear symbol at the bottom right corner of the monitor?",
+        "option": {
+          "A": "To indicate that the settings are only accessible through a physical button on the monitor",
+          "B": "To suggest that the settings can be adjusted while the monitor is powered off",
+          "C": "To visually imply that the settings are an integral part of the monitor's functionality without overwhelming the main display area",
+          "D": "To signify that the gear is a separate device connected to the monitor"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 89,
+    "image_path": "../../../data/moderate/process/page_676_中间页前链_1653_icon_5.png",
+    "caption": "a cell phone with a wifi signal on the top left corner",
+    "questions": {
+      "question1": {
+        "question": "How many curved lines are present in the Wi-Fi signal icon?",
+        "option": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "5"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely appear?",
+        "option": {
+          "A": "A map application",
+          "B": "A weather forecast",
+          "C": "A device connectivity status screen",
+          "D": "A music player interface"
+        },
+        "answer": "C"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the Wi-Fi symbol at the top left corner of the phone rather than the center?",
+        "option": {
+          "A": "To mimic the typical location of network indicators on real devices",
+          "B": "To make the icon more visually appealing",
+          "C": "To indicate that the Wi-Fi is weak",
+          "D": "To save space for other icons"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 90,
+    "image_path": "../../../data/moderate/process/page_208_商家活动页设计大赛图标_20505_icon_15.png",
+    "caption": "two glasses of champagne on a red background",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are used to form the glasses in the icon?",
+        "option": {
+          "A": "Two",
+          "B": "Three",
+          "C": "Four",
+          "D": "Five"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "A medical app",
+          "B": "A wedding invitation",
+          "C": "A fitness tracker",
+          "D": "A news website"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a red background for the icon?",
+        "option": {
+          "A": "To indicate danger or warning",
+          "B": "To evoke feelings of celebration and festivity",
+          "C": "To make the icon more visible in low light",
+          "D": "To align with a specific brand color scheme"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 91,
+    "image_path": "../../../data/moderate/process/page_53_小假哥_多彩_icon083_42776_icon_262.png",
+    "caption": "a pink icon of a shop with a ruffled roof",
+    "questions": {
+      "question1": {
+        "question": "What is the shape of the roof on the shop icon?",
+        "option": {
+          "A": "Triangular",
+          "B": "Flat",
+          "C": "Ruffled",
+          "D": "Dome-shaped"
+        },
+        "answer": "C"
+      },
+      "question2": {
+        "question": "Based on the icon's design, which type of establishment is it most likely representing?",
+        "option": {
+          "A": "A modern office building",
+          "B": "A traditional bakery",
+          "C": "An online store",
+          "D": "A sports stadium"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a ruffled roof for this shop icon instead of a flat one?",
+        "option": {
+          "A": "To make the icon more difficult to recognize",
+          "B": "To suggest a historical or quaint aesthetic",
+          "C": "Because ruffled roofs are more common in real life",
+          "D": "To indicate that the shop sells clothing"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 92,
+    "image_path": "../../../data/moderate/process/page_74_政务信息_39417_icon_48.png",
+    "caption": "a blue house with chinese word writing on it",
+    "questions": {
+      "question1": {
+        "question": "What is the primary color used for the outline of the house in the icon?",
+        "option": {
+          "A": "Red",
+          "B": "Blue",
+          "C": "Green",
+          "D": "Yellow"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Which of the following best describes the likely purpose or context of this icon?",
+        "option": {
+          "A": "A symbol for a Chinese restaurant",
+          "B": "An indicator for a real estate service related to property in China",
+          "C": "A logo for a Chinese language learning app",
+          "D": "A representation of a traditional Chinese temple"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the Chinese character prominently within the house shape?",
+        "option": {
+          "A": "To make the icon more visually appealing by adding an abstract element",
+          "B": "To emphasize the cultural significance of the Chinese character in relation to the concept of home or property",
+          "C": "To create a contrast between modern and traditional design styles",
+          "D": "To fill empty space within the icon for balance"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 93,
+    "image_path": "../../../data/moderate/process/page_59_天气tianqi_42524_icon_12.png",
+    "caption": "a cloud with snowflakes falling from it",
+    "questions": {
+      "question1": {
+        "question": "How many distinct snowflakes are depicted beneath the cloud in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "Which of the following scenarios would this icon most likely represent?",
+        "option": {
+          "A": "A sunny day at the beach",
+          "B": "A winter storm warning",
+          "C": "A hot summer day",
+          "D": "A thunderstorm with lightning"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include only two snowflakes instead of many more when depicting snowfall?",
+        "option": {
+          "A": "To indicate that it's not snowing very heavily",
+          "B": "To save space and simplify the design for better clarity",
+          "C": "Because only two snowflakes can realistically fall from a cloud",
+          "D": "To suggest that the snow is melting before reaching the ground"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 94,
+    "image_path": "../../../data/moderate/process/page_33_旅游_46080_icon_46.png",
+    "caption": "a tennis racket and ball",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are used to form the tennis racket's head in the icon?",
+        "option": {
+          "A": "4",
+          "B": "6",
+          "C": "10",
+          "D": "16"
+        },
+        "answer": "D"
+      },
+      "question2": {
+        "question": "In which context would this icon most likely be used?",
+        "option": {
+          "A": "A music app",
+          "B": "A sports news website",
+          "C": "A cooking tutorial",
+          "D": "A travel guide"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to place the tennis ball near the racket rather than overlapping it?",
+        "option": {
+          "A": "To save space in the design",
+          "B": "To indicate that the ball is not in play",
+          "C": "To enhance clarity and avoid visual clutter",
+          "D": "To suggest the ball is moving away from the racket"
+        },
+        "answer": "C"
+      }
+    }
+  },
+  {
+    "index": 96,
+    "image_path": "../../../data/moderate/process/page_35_娱乐人生_45431_icon_27.png",
+    "caption": "a purple boombox",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are used to represent the equalizer bars on the boombox?",
+        "option": {
+          "A": "5",
+          "B": "7",
+          "C": "9",
+          "D": "10"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "In which context would this purple boombox icon most likely be used?",
+        "option": {
+          "A": "A financial report",
+          "B": "A music streaming app",
+          "C": "A weather forecast",
+          "D": "A cooking recipe website"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a green circle near the top right corner of the boombox?",
+        "option": {
+          "A": "To indicate a power button for user interaction",
+          "B": "To add an aesthetic contrast without functional significance",
+          "C": "To symbolize a recording light for cassette tapes",
+          "D": "To represent a volume control knob"
+        },
+        "answer": "A"
+      }
+    }
+  },
+  {
+    "index": 97,
+    "image_path": "../../../data/moderate/process/page_19_赛博图标_49623_icon_14.png",
+    "caption": "a pixelated magnifying glass",
+    "questions": {
+      "question1": {
+        "question": "What is the primary shape that forms the main structure of the icon?",
+        "option": {
+          "A": "Circle",
+          "B": "Square",
+          "C": "Triangle",
+          "D": "Rectangle"
+        },
+        "answer": "A"
+      },
+      "question2": {
+        "question": "What does this icon typically represent in digital interfaces?",
+        "option": {
+          "A": "Search functionality",
+          "B": "Settings menu",
+          "C": "User profile",
+          "D": "Notification alert"
+        },
+        "answer": "A"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen a pixelated style for this magnifying glass icon?",
+        "option": {
+          "A": "To make it look more modern and sleek",
+          "B": "To evoke a sense of nostalgia or retro aesthetics",
+          "C": "To indicate high-resolution imagery",
+          "D": "To simplify the design for easier recognition"
+        },
+        "answer": "B"
+      }
+    }
+  },
+  {
+    "index": 98,
+    "image_path": "../../../data/moderate/process/page_92_美妆图标_35312_icon_6.png",
+    "caption": "a green design element combining a dark green square featuring diagonal light stripes and a bamboo leaf silhouette, alongside a circular green object resembling a face mask with circular openings",
+    "questions": {
+      "question1": {
+        "question": "How many distinct shapes are present in the icon?",
+        "option": {
+          "A": "One",
+          "B": "Two",
+          "C": "Three",
+          "D": "Four"
+        },
+        "answer": "B"
+      },
+      "question2": {
+        "question": "What does the circular green object with circular openings most likely represent in this context?",
+        "option": {
+          "A": "A flower",
+          "B": "A face mask",
+          "C": "A clock",
+          "D": "A button"
+        },
+        "answer": "B"
+      },
+      "question3": {
+        "question": "Why might the designer have chosen to include a bamboo leaf silhouette alongside the face mask shape?",
+        "option": {
+          "A": "To suggest that the product is eco-friendly or natural",
+          "B": "To indicate that the product is made of plastic",
+          "C": "To imply that the product is related to technology",
+          "D": "To show that the product is expensive"
+        },
+        "answer": "A"
+      }
+    }
+  }
+]
