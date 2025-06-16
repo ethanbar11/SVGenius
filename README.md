@@ -16,7 +16,7 @@
 
 - [2025/05/30] 👋 Release Datasets. 🤗[Dataset](https://huggingface.co/datasets/xiaoooobai/SVGenius).
 - [2025/05/30] 👋 Unpload paper. [Arxiv](https://arxiv.org/abs/2506.03139).
-- [2025/05/31] 👋 Release the evaluation code. [Code](https://github.com/ZJU-REAL/SVGenius/src)
+- [2025/05/31] 👋 Release the evaluation code. [Code](https://github.com/ZJU-REAL/SVGenius/tree/main/src)
 
 ## 🌟 Overview
 
