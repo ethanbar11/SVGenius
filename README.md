@@ -88,7 +88,7 @@ pip install -r requirements.txt
 Set your API credentials in the respective evaluation script (e.g., src/editing/bug_fixing/evaluation.py).
 
 ```py
-pythonAPI_KEY = "your_api_key_here"
+API_KEY = "your_api_key_here"
 BASE_URL = "your_base_url_here"
 ```
 
