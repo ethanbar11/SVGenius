@@ -16,7 +16,7 @@
 
 - [2025/05/30] 👋 Release Datasets. 🤗[Dataset](https://huggingface.co/datasets/xiaoooobai/SVGenius).
 - [2025/05/30] 👋 Unpload paper. [Arxiv](https://arxiv.org/abs/2506.03139).
-- [2025/05/31] 👋 Release the evaluation code.
+- [2025/05/31] 👋 Release the evaluation code. [Code](https://github.com/ZJU-REAL/SVGenius/src)
 
 ## 🌟 Overview
 
@@ -50,12 +50,64 @@ We evaluate a diverse set of models on SVGenius to assess SVG processing capabil
 
 ```
 SVGenius/
-├── 📂 docs/                    # project page code
-├── 📂 src/                    # data construct and evaluate code
-├── 📂 supplementary/          # Additional materials
-│   └── appendix.pdf           # Appendix includes data construction, tasks, metrics and more details
-└── 📄 README.md               # This file
+├── 📂 docs/                    # Project page source code
+├── 📂 src/                     # Main source code
+│   ├── 📂 data/                # Processed stratified SVGs
+│   ├── 📂 tasks/               # Samples from 8 task categories
+│   ├── 📂 understanding/       # Evaluation code for understanding dimensions
+│   ├── 📂 editing/             # Evaluation code for editing dimensions
+│   ├── 📂 generation/          # Evaluation code for generation dimensions
+│   ├── 📂 metrics/             # Shared evaluation metrics
+│   └── 📄 eval_util.py         # Utility functions for evaluation
+├── 📂 supplementary/           # Includes data construction, task definitions, metrics, and more
+├── 📄 requirements.txt         # Dependencies for evaluation
+└── 📄 README.md                
 ```
+
+## 🧪 Usage
+
+This section demonstrates how to test different tasks using our evaluation scripts. Here we use SVG Bug Fixing as an example.
+
+**I. Environment Setup.**
+
+```py
+# Clone the repository
+git clone https://github.com/ZJU-REAL/SVGenius.git
+cd SVGenius
+
+# Create a new environment
+conda create -n svg_ben python=3.10
+conda activate svg_ben
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+**II. Configure API Settings.**
+
+Set your API credentials in the respective evaluation script (e.g., src/editing/bug_fixing/evaluation.py).
+
+```py
+pythonAPI_KEY = "your_api_key_here"
+BASE_URL = "your_base_url_here"
+```
+
+**III. Run Evaluation (Bug Fixing Example).**
+
+Test cases are provided in src/tasks/editing/bug_fixing/ directory.
+
+```py
+cd src/editing/bug_fixing
+
+# Run evaluation with test cases
+python evaluation.py \
+  --input ../tasks/editing/bug_fixing/test_samples.json \
+  --output results.json \
+  --model deepseekr1
+```
+
+The evaluation generates comprehensive metrics including repair accuracy, processing time, and change magnitude for performance assessment. Similar testing procedures can be applied to other tasks with their respective evaluation scripts.
+
 
 ## Citation
 
