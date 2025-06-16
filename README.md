@@ -14,9 +14,9 @@
 
 ## 🔥🔥🔥 News !!
 
-- [2025/06/04] 👋 Release Datasets. 🤗[Dataset](https://huggingface.co/datasets/xiaoooobai/SVGenius).
-- [2025/06/04] 👋 Unpload paper. [Arxiv](https://arxiv.org/abs/2506.03139).
-- [2025/06/14] 👋 Release the evaluation code.
+- [2025/05/30] 👋 Release Datasets. 🤗[Dataset](https://huggingface.co/datasets/xiaoooobai/SVGenius).
+- [2025/05/30] 👋 Unpload paper. [Arxiv](https://arxiv.org/abs/2506.03139).
+- [2025/05/31] 👋 Release the evaluation code.
 
 ## 🌟 Overview
 
