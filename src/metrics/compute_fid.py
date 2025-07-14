@@ -6,7 +6,7 @@ import torch
 from torchvision import transforms
 import clip
 from torch.nn.functional import adaptive_avg_pool2d
-from inception import InceptionV3
+# from pytorch_fid.inception import InceptionV3
 import numpy as np
 from tqdm import tqdm
 from scipy import linalg

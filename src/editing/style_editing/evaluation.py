@@ -12,9 +12,9 @@ from ...eval_util import setup_logger,extract_svg_from_response
 
 logger = setup_logger(name="style_editing",log_dir="../logs",log_filename="style_editing.log")
 
-API_KEY = "your_api_key_here"  # Replace with your actual API key
-BASE_URL = "your_base_url_here"  # Replace with your API base URL
-AVAILABLE_MODELS = [ "Qwen2-72B-Instruct-AWQ", "gpt-4o",  "deepseekr1"]
+API_KEY = "mock-key-123"  
+BASE_URL = "http://localhost:8000/v1"
+AVAILABLE_MODELS = ["Qwen2-72B-Instruct-AWQ", "gpt-4o", "deepseekr1","mock-llm"]
 
 
 async def edit_svg_from_api(original_svg: str, edit_command: str, model: str = "deepseekr1", semaphore: asyncio.Semaphore = None) -> Tuple[Optional[str], float, Optional[str]]:

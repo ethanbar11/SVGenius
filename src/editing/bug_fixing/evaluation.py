@@ -8,14 +8,14 @@ import time
 from typing import Dict, List, Any, Optional, Tuple
 from datetime import datetime
 from openai import AsyncOpenAI
-from .set_metric import evaluate_svg_repair
-from ...eval_util import setup_logger, extract_svg_from_response
+from editing.bug_fixing.set_metric import evaluate_svg_repair
+from eval_util import setup_logger, extract_svg_from_response 
 
 logger = setup_logger(name="bug_fixing", log_dir="../logs", log_filename="bug_fixing.log")
 
-API_KEY = "your_api_key_here"  # Replace with your actual API key
-BASE_URL = "your_base_url_here"  # Replace with your API base URL
-AVAILABLE_MODELS = [ "Qwen2-72B-Instruct-AWQ", "gpt-4o",  "deepseekr1"]
+API_KEY = "mock-key-123"  
+BASE_URL = "http://localhost:8000/v1"
+AVAILABLE_MODELS = ["Qwen2-72B-Instruct-AWQ", "gpt-4o", "deepseekr1","mock-llm"]
 
 async def generate_svg_from_api(bug_svg: str, model: str = "deepseekr1", semaphore: asyncio.Semaphore = None) -> Tuple[Optional[str], float, Optional[str]]:
     """
@@ -40,7 +40,7 @@ async def generate_svg_from_api(bug_svg: str, model: str = "deepseekr1", semapho
         try:
             retries = 0
             max_retries = 10
-            
+
             while retries < max_retries:
                 try:
                     stream = await aclient.chat.completions.create(
@@ -61,7 +61,10 @@ async def generate_svg_from_api(bug_svg: str, model: str = "deepseekr1", semapho
                     response_text = response
 
                     svg_code = extract_svg_from_response(response_text)
-                    
+                    if not svg_code:
+                        logger.error(f"Failed to extract SVG code from response: {response_text}")
+                    else:                    
+                        logger.info(f"SVG code extracted successfully, length: {len(svg_code)} characters.")
                     return svg_code, execution_time, response_text
                     
                 except Exception as e:

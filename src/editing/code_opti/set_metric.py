@@ -4,8 +4,8 @@ import json
 import logging
 from typing import Dict, List, Any
 from datetime import datetime
-from ...metrics.data_util import rasterize_svg
-from ...eval_util import load_svg_metrics
+from metrics.data_util import rasterize_svg
+from eval_util import load_svg_metrics
 
 def calculate_compression_ratio(ori_svg: str, gen_svg: str) -> float:
     """

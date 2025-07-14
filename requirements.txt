@@ -2,7 +2,7 @@ aesthetic-predictor-v2-5==2024.12.18.1
 aiofiles==24.1.0
 beautifulsoup4==4.13.4
 CairoSVG==2.7.1
-clip==1.0
+# clip==1.0
 hpsv2x==1.2.0
 lpips==0.1.4
 lxml==5.4.0

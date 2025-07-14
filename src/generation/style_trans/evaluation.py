@@ -16,8 +16,8 @@ from ...eval_util import setup_logger, extract_svg_from_response
 
 logger = setup_logger(name="style_trans_eval", log_dir="../logs", log_filename="style_trans_eval.log")
 
-API_KEY = "your_api_key_here"
-BASE_URL = "your_base_url_here"
+API_KEY = "mock-key-123"  
+BASE_URL = "http://localhost:8000/v1"
 client = AsyncOpenAI(api_key=API_KEY, base_url=BASE_URL)
 
 async def generate_score(style: str, original_image_path: str, transferred_image_path: str, 

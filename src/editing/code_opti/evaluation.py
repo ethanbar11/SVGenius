@@ -10,15 +10,15 @@ import aiofiles
 from typing import Dict, Any
 from typing import Dict, List, Any, Optional, Tuple
 from datetime import datetime
-from .set_metric import evaluate_svg_optimization
-from ...eval_util import setup_logger,extract_svg_from_response
+from editing.code_opti.set_metric import evaluate_svg_optimization
+from eval_util import setup_logger,extract_svg_from_response
 from openai import AsyncOpenAI
 
 logger=setup_logger(name="svg_optimization", log_dir="../logs", log_filename="svg_optimization.log")
 
-API_KEY = "your_api_key_here"  # Replace with your actual API key
-BASE_URL = "your_base_url_here"  # Replace with your API base URL
-AVAILABLE_MODELS = [ "Qwen2-72B-Instruct-AWQ", "gpt-4o",  "deepseekr1"]
+API_KEY = "mock-key-123"  
+BASE_URL = "http://localhost:8000/v1"
+AVAILABLE_MODELS = ["Qwen2-72B-Instruct-AWQ", "gpt-4o", "deepseekr1","mock-llm"]
 
 async def optimize_svg_from_api(origin_svg: str, target_ratio: float = None, model: str = "deepseekr1", semaphore: asyncio.Semaphore = None) -> Tuple[Optional[str], float, Optional[str]]:
     """
@@ -231,7 +231,6 @@ async def process_optimization_batch_from_json(json_file: str, output_file: str,
     processed = 0
 
     batch_size = max_concurrent * 2  
-    
     for start_idx in range(0, total_samples, batch_size):
         end_idx = min(start_idx + batch_size, total_samples)
         batch_ids = sample_ids[start_idx:end_idx]

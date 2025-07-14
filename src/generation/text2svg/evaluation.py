@@ -12,20 +12,20 @@ from datetime import datetime
 from openai import AsyncOpenAI
 import asyncio
 import aiofiles
-from .set_metrics import evaluate_generated_svg, calculate_batch_fid
-from ...eval_util import setup_logger,extract_svg_from_response
-from ...metrics.data_util import rasterize_svg
+from generation.text2svg.set_metrics import evaluate_generated_svg, calculate_batch_fid
+from eval_util import setup_logger,extract_svg_from_response
+from metrics.data_util import rasterize_svg
 
 logger = setup_logger(name="textsvg_gen",log_dir="../logs",log_filename="textsvg_gen.log")
 
-API_KEY = "your_api_key_here"  
-BASE_URL = "your_base_url_here"
-AVAILABLE_MODELS = ["Qwen2-72B-Instruct-AWQ", "gpt-4o", "deepseekr1"]
+API_KEY = "mock-key-123"  
+BASE_URL = "http://localhost:8000/v1"
+AVAILABLE_MODELS = ["Qwen2-72B-Instruct-AWQ", "gpt-4o", "deepseekr1","mock-llm"]
 
 async def generate_svg_from_api_async(prompt: str, model: str = "deepseekr1", semaphore: asyncio.Semaphore = None) -> Tuple[Optional[str], float, Optional[str]]:
     """
     Generate SVG from API with async processing and retry mechanism
-    """
+    """ 
     start_time = time.time()
     async_client = AsyncOpenAI(api_key=API_KEY, base_url=BASE_URL)
     

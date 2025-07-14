@@ -1,8 +1,8 @@
 from typing import Dict, Any
 import traceback
-from ...metrics.pss.merge import evaluate_svg_string   
-from ...metrics.compute_fid import FIDCalculator
-from ...metrics.merge_metrics import SVGMetrics
+from metrics.pss.merge import evaluate_svg_string   
+from metrics.compute_fid import FIDCalculator
+from metrics.merge_metrics import SVGMetrics
 
 def calculate_releatemse(caption: str, reference_clip: float, generated_clip: float) -> float:
     """Calculate relative CLIP score metric"""

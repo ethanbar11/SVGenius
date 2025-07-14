@@ -2,7 +2,7 @@
 import difflib
 from typing import Dict, Any
 from datetime import datetime
-from ...eval_util import remove_whitespace, compare_svg, calculate_change_magnitude
+from eval_util import remove_whitespace, compare_svg, calculate_change_magnitude
 
 def evaluate_svg_repair(model_svg: str, standard_svg: str, bug_svg: str, 
                        execution_time: float = None) -> Dict[str, Any]:

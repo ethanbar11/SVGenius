@@ -17,9 +17,9 @@ from ...metrics.data_util import rasterize_svg
 
 logger = setup_logger(name="imagesvg_gen", log_dir="../logs", log_filename="imagesvg_gen.log")
 
-API_KEY = "your_api_key_here"  # Replace with your actual API key
-BASE_URL = "your_base_url_here"  # Replace with your API base URL
-AVAILABLE_MODELS = [ "Qwen2-72B-Instruct-AWQ", "gpt-4o",  "deepseekr1"]
+API_KEY = "mock-key-123"  
+BASE_URL = "http://localhost:8000/v1"
+AVAILABLE_MODELS = ["Qwen2-72B-Instruct-AWQ", "gpt-4o", "deepseekr1","mock-llm"]
 
 async def generate_svg_from_api_async(prompt: str, image_path: str, model: str = "deepseekr1", semaphore: asyncio.Semaphore = None) -> Tuple[Optional[str], float, Optional[str]]:
     """
